@@ -12,7 +12,7 @@
 			 - **
 		 - Configuring the Color Scheme
 			 - **
-			 - [Console Color](ConsoleColor.md) 
+			 - [Console Colors](ConsoleColor.md) 
 			 - [Console Font](ConsoleFont.md)
 			- Database
 			- **
