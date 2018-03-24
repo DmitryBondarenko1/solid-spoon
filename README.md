@@ -10,7 +10,7 @@
 			 - Scheme
 			 - Console 
 			 - **
-		 - Configuring Color Scheme
+		 - Configuring the Color Scheme
 			 - **
 			 - Console Color 
 			 - Console Font
