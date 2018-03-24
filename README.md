@@ -1,7 +1,7 @@
 
 **IntelliJ IDEA Help**
 
- - [Meet IntelliJ IDEA](test2.md)
+ - Meet IntelliJ IDEA
  - Configuring the IDE
 	 - Overview of the Configuring Section 
 	 - Configuring the Editor 
@@ -31,7 +31,7 @@
 - Building, Running, Testing and Deploying Applications
 	- Overview of the Section
 		- **
-		- Using Console
+		- [Using Console](OverViewConsole.md)
 			- General
 			- Running Console
 			- Managing Console
