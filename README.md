@@ -1,4 +1,4 @@
-IntelliJ IDEA Help
+**IntelliJ IDEA Help**
 
  - Configuring the IDE
 	 - Overview of the Configuring Section 
