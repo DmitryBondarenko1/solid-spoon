@@ -18,6 +18,10 @@
 			- **
 		- Configuring Intentions
 		- **
+	- Language & Frameworks
+		- **
+		- Play Configuration
+		- **
 	- Configuring Tools   
 		- **
 		- Database
