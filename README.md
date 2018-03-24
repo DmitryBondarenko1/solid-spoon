@@ -1,6 +1,7 @@
+
 **IntelliJ IDEA Help**
 
- - Meet IntelliJ IDEA
+ - [Meet IntelliJ IDEA](test2.md)
  - Configuring the IDE
 	 - Overview of the Configuring Section 
 	 - Configuring the Editor 
