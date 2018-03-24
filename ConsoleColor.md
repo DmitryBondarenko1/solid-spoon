@@ -3,6 +3,7 @@
 You can manage colors of the IntelliJ IDEA application console by customizing the values of the **Console Color** section. Thus, you can individually configure highlighting rules for input, error, and output messages of your console. The available color options are listed in Table 1:
 
 Table 1
+
 |Setting|  Description|
 |--|--|
 | Background| Represents backround color of all messages in the console |
