@@ -1,3 +1,4 @@
+
 **IntelliJ IDEA Help**
 
  - Meet IntelliJ IDEA
@@ -5,13 +6,21 @@
 	 - Overview of the Configuring Section 
 	 - Configuring the Editor 
 		 - General
+			 - **
 			 - Scheme
 			 - Console 
+			 - **
 		 - Configuring Color Scheme
-			 - Font
-			 - Colors
+			 - **
+			 - Console Color 
+			 - Console Font
 			- Database
+			- **
 		- Configuring Intentions
+		- **
 	- Configuring Tools   
+		- **
 		- Database
+			- **
 			- User Parameters
+			- **
