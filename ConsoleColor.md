@@ -5,7 +5,7 @@ You can manage colors of the IntelliJ IDEA application console by customizing th
 | Background|  |
 | Error output |  |
 | Standard output |  |
-| Syste output |  |
+| System output |  |
 | Use input|  |
 
 **To configure the color scheme for consoles**
