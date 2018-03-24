@@ -24,7 +24,7 @@
 			- **
 			- User Parameters
 			- **
-- Building, Running, Testing and Dploying Applications
+- Building, Running, Testing and Deploying Applications
 	- Overview of the Section
 		- Using Console
 			- General
