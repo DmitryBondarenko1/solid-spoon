@@ -8,7 +8,7 @@
 		 - General
 			 - **
 			 - Scheme
-			 - Console 
+			 - [Console](ConsoleGeneral.md)
 			 - **
 		 - Configuring the Color Scheme
 			 - **
