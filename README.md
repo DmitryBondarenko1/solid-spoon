@@ -5,11 +5,11 @@
 	 - Overview of the Configuring Section 
 	 - Configuring the Editor 
 		 - General
-			 - Configuring Scheme
-			 - Configuring Console 
+			 - Scheme
+			 - Console 
 		 - Configuring Color Scheme
-			 - Console Font
-			 - Console Colors
+			 - Font
+			 - Colors
 			- Database
 		- Configuring Intentions
 	- Configuring Tools   
