@@ -6,11 +6,11 @@ You can manage colors of the IntelliJ IDEA application console by customizing th
 
 |Setting|  Description|
 |--|--|
-| Background| Represents backround color of all messages in the console |
-| Error output | Represents font color of error messages in the console |
-| Standard output | Represents font color of output messages in the console  |
-| System output | Represents font color of output system messages in the console |
-| User input| Represents font color of user input messages in the console |
+| Background| Sets the background color of all messages in the console |
+| Error output | Sets the font color of error messages in the console |
+| Standard output | Sets the font color of output messages in the console  |
+| System output | Sets the font color of output system messages in the console |
+| User input| Sets the font color of user input messages in the console |
 
 **To configure the console color scheme**
 
