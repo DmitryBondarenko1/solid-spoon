@@ -12,8 +12,8 @@
 			 - **
 		 - Configuring the Color Scheme
 			 - **
-			 - Console Color 
-			 - Console Font
+			 - [Console Color](ConsoleColor.md) 
+			 - [Console Font](ConsoleFont.md)
 			- Database
 			- **
 		- Configuring Intentions
