@@ -1,4 +1,3 @@
-
 **IntelliJ IDEA Help**
 
  - Meet IntelliJ IDEA
@@ -24,9 +23,11 @@
 			- **
 			- User Parameters
 			- **
-- Building, Running, Testing and Deploying Applications
+- Building, Running, Testing and Dploying Applications
 	- Overview of the Section
+		- **
 		- Using Console
 			- General
 			- Running Console
 			- Managing Console
+		- **
