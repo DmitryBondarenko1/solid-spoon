@@ -18,10 +18,10 @@ Note: to customize colors of a console, your color scheme should be editable. Ed
 |Console Area|  Description|
 |--|--|
 | Background| Sets the console background color |
-| Error output | Sets the font color of error messages in the console |
-| Standard output | Sets the font color of output messages in the console  |
-| System output | Sets the font color of output system messages in the console |
-| User input| Sets the font color of user input messages in the console |
+| Error output | Sets the font style of error messages in the console |
+| Standard output | Sets the font style of output messages in the console  |
+| System output | Sets the font style of output system messages in the console |
+| User input| Sets the font style of user input messages in the console |
  
  6. Specify color settings using the **Color Tool** in the the right-hand pane. For information on how to work with the **Color Tool**, refer to section [Color Tool](ColorTool.md) in the [Configuring the IDE](ConfiguringIDE.md) chapter. Color settings you make are instantly shown in the example at the bottom of the menu.
  7. Click **OK** or **Apply** to save the changes you have made.
