@@ -6,7 +6,7 @@ IntelliJ IDEA enables you to define your habitual color scheme for standard and 
 
  1. Open the **Settings/Preferences** dialog. Navigate to **Editor** -> **General** -> **Color Scheme** -> **Console Colors**. Select the IntelliJ IDEA color scheme in the **Scheme** dropdown list at the top of the appeared menu. 
  
-Note: to customize colors of a console, current color scheme should be editable. Editable color schemes are marked with * in the **Scheme** dropdown list. For more information about configuring color schemes, refer to the [Scheme](Scheme.md) section in the [Configuring the IDE](ConfiguringIDE.md) chapter.  
+Note: to customize colors of a console, your current color scheme should be editable. Editable color schemes are marked with * in the **Scheme** dropdown list. For more information about configuring color schemes, refer to the [Scheme](Scheme.md) section in the [Configuring the IDE](ConfiguringIDE.md) chapter.  
 
  2. Open the **Console** section in the **Console Colors** dialog.
  3. Select the desired console area you want to customize, see **Table 1** below for the available options. 
