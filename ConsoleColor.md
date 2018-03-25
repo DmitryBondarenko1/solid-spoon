@@ -16,7 +16,7 @@ You can manage colors of the IntelliJ IDEA application console by customizing th
 
  1. Open the **Settings/Preferences dialog**. Navigate to **Editor** -> **General** -> **Color Scheme** -> **Console Color**. Select the IntelliJ IDEA color scheme in the **Scheme** dropdown list at the top of the appeared menu. 
  
-`In order to be able to customize colors of the color scheme it should be editable. Editable color schemes are marked as * in the dropdown list.`
+`To customize colors of the color scheme it should be editable. Editable color schemes are marked as * in the **Scheme** dropdown list.`
 
  2. List item
  3. sdf
