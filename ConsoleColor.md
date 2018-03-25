@@ -2,7 +2,7 @@
 
 IntelliJ IDEA enables you to define your habitual colors for standard and database consoles. So doing, you can individually configure highlighting rules for input, error, and output messages. 
 
-**To configure the console colors**
+**To customize the console colors**
 
  1. Open the **Settings/Preferences** dialog. 
  2. Navigate to **Editor** -> **General** -> **Color Scheme** -> **Console Colors**. 
