@@ -7,7 +7,7 @@
 	 - Configuring the Editor 
 		 - General
 			 - **
-			 - Scheme
+			 - [Scheme](Scheme.md)
 			 - [Console](ConsoleGeneral.md)
 			 - **
 		 - Configuring the Color Scheme
