@@ -12,7 +12,7 @@ You can manage colors of the IntelliJ IDEA application console by customizing th
 | System output | Sets the font color of output system messages in the console |
 | User input| Sets the font color of user input messages in the console |
 
-**To configure the console color scheme**
+**To configure the console color**
 
  1. Open the **Settings/Preferences dialog**. Navigate to **Editor** -> **General** -> **Color Scheme** -> **Console Color**. Select the IntelliJ IDEA color scheme in the **Scheme** dropdown list at the top of the appeared menu. 
  
