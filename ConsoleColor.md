@@ -4,9 +4,9 @@ You can manage colors of the IntelliJ IDEA consoles by customizing the values of
 
 These rules are applied only to the following types of consoles: standard console, Database console etc. To learn more about console types, see section [Using Console](UsingConsole.md) in chapter [Building, Running, Testing and Deploying Applications ](RunningApplications.md) 
 
-The available color options are listed in **Table 1**:
+The available console color options are listed in **Table 1**:
 
-**Table 1. Application Console Color Options** 
+**Table 1. Console Color Options** 
 
 |Area|  Description|
 |--|--|
