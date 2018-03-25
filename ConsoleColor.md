@@ -2,7 +2,7 @@
 
 You can customize the view of the IntelliJ IDEA consoles in the **Console Colors** section. There you can individually configure highlighting rules for input, error, and output messages of your console. 
 
-`Note: Settings in this section are applied to the standard and Database consoles. To learn more about consoles types in the IntelliJ IDEA, see section [Using Consoles](UsingConsole.md) in chapter [Building, Running, Testing and Deploying Applications ](RunningApplications.md)`
+Note: settings in this section are applied to the standard and Database consoles. To learn more about consoles types in the IntelliJ IDEA, see section [Using Consoles](UsingConsole.md) in chapter [Building, Running, Testing and Deploying Applications](RunningApplications.md)
 
 The available console color options are listed in **Table 1**:
 
@@ -20,7 +20,7 @@ The available console color options are listed in **Table 1**:
 
  1. Open the **Settings/Preferences** dialog. Navigate to **Editor** -> **General** -> **Color Scheme** -> **Console Colors**. Select the IntelliJ IDEA color scheme in the **Scheme** dropdown list at the top of the appeared menu. 
  
-Note: To customize colors of the color scheme, it should be editable. Editable color schemes are marked with * in the **Scheme** dropdown list. For more information about configuring schemes, refer to the [Scheme](Scheme.md) section in the [Configuring the IDE](ConfiguringIDE.md) chapter.  
+Note: to customize colors of the color scheme, it should be editable. Editable color schemes are marked with * in the **Scheme** dropdown list. For more information about configuring schemes, refer to the [Scheme](Scheme.md) section in the [Configuring the IDE](ConfiguringIDE.md) chapter.  
 
  2. Open the **Console** section in the **Console Colors** dialog.
  3. Select the desired console area you want to customize, see **Table 1** at the top of this article for the available options. 
