@@ -4,7 +4,7 @@ You can manage colors of the IntelliJ IDEA application console by customizing th
 
 **Table 1. Application Console Color Options** 
 
-|Setting|  Description|
+|Area|  Description|
 |--|--|
 | Background| Sets the background color of all messages in the console |
 | Error output | Sets the font color of error messages in the console |
