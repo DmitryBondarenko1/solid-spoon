@@ -2,7 +2,7 @@
 
 You can customize the view of the IntelliJ IDEA consoles in the **Console Colors** section. There you can individually configure highlighting rules for input, error, and output messages of your console. 
 
-Note: Settings in this section are applied to the standard and Database consoles. To learn more about consoles types in the IntelliJ IDEA, see section [Using Consoles](UsingConsole.md) in chapter [Building, Running, Testing and Deploying Applications ](RunningApplications.md) 
+`Note: Settings in this section are applied to the standard and Database consoles. To learn more about consoles types in the IntelliJ IDEA, see section [Using Consoles](UsingConsole.md) in chapter [Building, Running, Testing and Deploying Applications ](RunningApplications.md)`
 
 The available console color options are listed in **Table 1**:
 
