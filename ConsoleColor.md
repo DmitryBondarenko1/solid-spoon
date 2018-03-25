@@ -24,6 +24,6 @@ To customize colors of the color scheme it should be editable. Editable color sc
 
  2. Open the **Console** section in the **Console Colors** dialog.
  3. Select the desired console area you want to customize, see Table 1 for the available options. 
- 4. Specify color settings in the Color Tool. For information on how to work with the Color tool, refer to section [Color Tool](ColorTool.md) in the [Configuring the IDE](ConfiguringIDE.md) chapter. Color settings you made will be displayed in the example area at the bottom of the **Console Colors** dialog.
+ 4. Specify color settings in the Color Tool. For information on how to work with the Color tool, refer to section [Color Tool](ColorTool.md) in the [Configuring the IDE](ConfiguringIDE.md) chapter. Color settings you made will be instantly shown in the example area at the bottom of the **Console Colors** dialog.
  5. Click OK or Apply to save the changes you have made.
 
