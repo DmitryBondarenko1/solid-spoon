@@ -1,6 +1,6 @@
 **Customizing Console View**
 
-IntelliJ IDEA enables you to define a habitual view of the application console. Thus, you can individually configure color, font style, and highlighting rules for input, error, and output messages. 
+IntelliJ IDEA enables you to define your habitual view of the application console. Thus, you can individually configure color, font style, and highlighting rules for input, error, and output messages. 
 
 **To customize console view**
 
