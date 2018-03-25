@@ -7,29 +7,29 @@
 	 - Configuring the Editor 
 		 - General
 			 - **
-			 - [Scheme](Scheme.md)
-			 - Console
+			 - [Configuring Scheme](Scheme.md)
+			 - Configuring Console
 			 - **
 		 - Configuring the Color Scheme
 			 - **
 			 - Console Colors
-				 - ANSI Colors
-				 - [Console](ConsoleColor.md)
-				 - Log Console
-			 - Console Font
-			- Database
+				 - Configuring ANSI Colors
+				 - [Configuring Console](ConsoleColor.md)
+				 - Configuring Log Console
+			 - Configuring Console Font
+			- Configuring Database
 			- **
 		- Configuring Intentions
 		- **
 	- Language & Frameworks
 		- **
-		- Play Configuration
+		- Configuring Play Configuration
 		- **
 	- Configuring Tools   
 		- **
-		- Database
+		- Configuring Database
 			- **
-			- User Parameters
+			- Configuring User Parameters
 			- **
 - Building, Running, Testing and Deploying Applications
 	- Overview of the Section
