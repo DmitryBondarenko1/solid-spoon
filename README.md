@@ -13,7 +13,8 @@
 		 - Configuring the Color Scheme
 			 - **
 			 - Console Colors
-				 - Customizing ANSI Colors
+				 - [Using Color Tool](ColorTool.md)
+				 - Customizing ANSI Colors 
 				 - [Customizing Console Colors](ConsoleColor.md)
 				 - Customizing Log Console
 			 - Configuring Console Font
