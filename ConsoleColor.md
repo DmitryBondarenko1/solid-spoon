@@ -23,7 +23,7 @@ Note: to customize colors of a console, your color scheme should be editable. Ed
 | System output | Sets the font color of output system messages in the console |
 | User input| Sets the font color of user input messages in the console |
  
- 4. Specify color settings using the **Color Tool** at the right side. For information on how to work with the **Color Tool**, refer to section [Color Tool](ColorTool.md) in the [Configuring the IDE](ConfiguringIDE.md) chapter. Color settings you make are instantly shown in the example at the bottom of this dialog.
+ 4. Specify color settings using the **Color Tool** in the the right-hand pane. For information on how to work with the **Color Tool**, refer to section [Color Tool](ColorTool.md) in the [Configuring the IDE](ConfiguringIDE.md) chapter. Color settings you make are instantly shown in the example at the bottom of the menu.
  5. Click **OK** or **Apply** to save the changes you have made.
 
 To learn more about consoles in the IntelliJ IDEA, see section [Using Consoles](UsingConsole.md) in chapter [Building, Running, Testing and Deploying Applications](RunningApplications.md)
