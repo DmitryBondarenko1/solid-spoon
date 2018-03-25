@@ -13,9 +13,9 @@
 		 - Configuring the Color Scheme
 			 - **
 			 - Console Colors
-				 - Configuring ANSI Colors
+				 - Customizing ANSI Colors
 				 - [Customizing Console Colors](ConsoleColor.md)
-				 - Configuring Log Console
+				 - Customizing Log Console
 			 - Configuring Console Font
 			- Configuring Database
 			- **
