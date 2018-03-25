@@ -15,7 +15,7 @@
 			 - Console Colors
 				 - [Using Color Tool](ColorTool.md)
 				 - Customizing ANSI Colors 
-				 - [Customizing Console Colors](ConsoleColor.md)
+				 - [Customizing Console View](ConsoleColor.md)
 				 - Customizing Log Console
 			 - Configuring Console Font
 			- Configuring Database
