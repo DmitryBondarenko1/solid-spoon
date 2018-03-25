@@ -17,7 +17,7 @@ Note: to customize colors of a console, your color scheme should be editable. Ed
 
 |Console Area|  Description|
 |--|--|
-| Background| Sets the background color of all messages in the console |
+| Background| Sets the console background color |
 | Error output | Sets the font color of error messages in the console |
 | Standard output | Sets the font color of output messages in the console  |
 | System output | Sets the font color of output system messages in the console |
