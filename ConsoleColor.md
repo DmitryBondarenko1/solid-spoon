@@ -18,11 +18,12 @@ The available console color options are listed in **Table 1**:
 
 **To configure the console color**
 
- 1. Open the **Settings/Preferences dialog**. Navigate to **Editor** -> **General** -> **Color Scheme** -> **Console Color**. Select the IntelliJ IDEA color scheme in the **Scheme** dropdown list at the top of the appeared menu. 
+ 1. Open the **Settings/Preferences dialog**. Navigate to **Editor** -> **General** -> **Color Scheme** -> **Console Colors**. Select the IntelliJ IDEA color scheme in the **Scheme** dropdown list at the top of the appeared menu. 
  
 To customize colors of the color scheme it should be editable. Editable color schemes are marked as * in the Scheme dropdown list. For more information about configuring schemes refer to the [Scheme](Scheme.md) section in the [Configuring the IDE](ConfiguringIDE.md) chapter.  
 
- 2. List item
- 3. sdf
+ 2. Open the **Console** section in the **Console Colors** dialog.
+ 3. Select the desired console area you want to customize, see Table 1 for the available options. 
+ 4. Specify color settings in the Color Tool. For information on how to work with the Color tool, refer to section [Color Tool](ColorTool.md) in the [Configuring the IDE](ConfiguringIDE.md) chapter
 
 
