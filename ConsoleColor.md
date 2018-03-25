@@ -1,6 +1,6 @@
 **Configuring Console Colors**
 
-You can manage colors of the IntelliJ IDEA consoles by customizing the values of the **Console Color** section. Thus, you can individually configure highlighting rules for input, error, system, and output messages of your console. 
+You can manage colors of the IntelliJ IDEA consoles by customizing the values of the **Console Color** section. Thus, you can individually configure highlighting rules for input, error, and output messages of your console. 
 
 These rules are applied only to the following types of consoles: standard console, Database console etc. To learn more about the consoles in the IntelliJ IDEA, see section [Using Consoles](UsingConsole.md) in chapter [Building, Running, Testing and Deploying Applications ](RunningApplications.md) 
 
