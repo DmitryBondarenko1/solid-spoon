@@ -8,15 +8,15 @@
 		 - General
 			 - **
 			 - [Scheme](Scheme.md)
-			 - [Console](ConsoleGeneral.md)
+			 - Console
 			 - **
 		 - Configuring the Color Scheme
 			 - **
-			 - [Console Colors](ConsoleColorGen.md) 
+			 - Console Colors
 				 - ANSI Colors
 				 - [Console](ConsoleColor.md)
 				 - Log Console
-			 - [Console Font](ConsoleFont.md)
+			 - Console Font
 			- Database
 			- **
 		- Configuring Intentions
