@@ -17,11 +17,11 @@ Note: to customize a console view, your color scheme should be editable. Editabl
 
 |Console Area|  Description|
 |--|--|
-| Background| Defines the console background color |
-| Error output | Defines the view of error messages in the console |
-| Standard output | Defines the view of output messages in the console  |
-| System output | Defines the view of output system messages in the console |
-| User input| Defines the view of user input messages in the console |
+| Background| Defines the background color |
+| Error output | Defines the view of error messages |
+| Standard output | Defines the view of output messages  |
+| System output | Defines the view of output system messages |
+| User input| Defines the view of user input messages |
  
  6. Specify the console view settings using the **Color Tool** in the the right-hand pane. For information on how to work with the **Color Tool**, refer to section [Color Tool](ColorTool.md) in the [Configuring the IDE](ConfiguringIDE.md) chapter. Settings you make are instantly shown in the example at the bottom of the menu.
  7. Click **OK** or **Apply** to save the changes you have made.
