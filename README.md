@@ -12,9 +12,9 @@
 			 - **
 		 - Configuring the Color Scheme
 			 - **
-			 - [Console Colors](ConsoleColor.md) 
+			 - [Console Colors](ConsoleColorGen.md) 
 				 - ANSI Colors
-				 - Console
+				 - [Console](ConsoleColor.md)
 				 - Log Console
 			 - [Console Font](ConsoleFont.md)
 			- Database
