@@ -2,8 +2,6 @@
 
 IntelliJ IDEA enables you to define your habitual color scheme for standard and database consoles. So doing, you can individually configure highlighting rules for input, error, and output messages. 
 
-To learn more about consoles in the IntelliJ IDEA, see section [Using Consoles](UsingConsole.md) in chapter [Building, Running, Testing and Deploying Applications](RunningApplications.md)
-
 **To configure the console colors**
 
  1. Open the **Settings/Preferences** dialog. Navigate to **Editor** -> **General** -> **Color Scheme** -> **Console Colors**. Select the IntelliJ IDEA color scheme in the **Scheme** dropdown list at the top of the appeared menu. 
@@ -26,3 +24,4 @@ Note: to customize colors of a console, current color scheme should be editable.
  4. Specify color settings using the **Color Tool** at the right side. For information on how to work with the **Color Tool**, refer to section [Color Tool](ColorTool.md) in the [Configuring the IDE](ConfiguringIDE.md) chapter. Color settings you make are instantly shown in the example at the bottom of this dialog.
  5. Click **OK** or **Apply** to save the changes you have made.
 
+To learn more about consoles in the IntelliJ IDEA, see section [Using Consoles](UsingConsole.md) in chapter [Building, Running, Testing and Deploying Applications](RunningApplications.md)
