@@ -13,7 +13,7 @@ Note: to customize a console view, your color scheme should be editable. Editabl
  4. Open the **Console** section in the **Console Colors** dialog.
  5. Select the desired console area you want to customize, see **Table 1** below for the available options. 
  
- **Table 1. Console Style Options** 
+ **Table 1. Console View Options** 
 
 |Console Area|  Description|
 |--|--|
