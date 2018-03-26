@@ -13,9 +13,9 @@
 			 - **
 			 - [Configuring Color Scheme](Scheme.md) *//how to. darcula, default, import, export, color tool
 			 - [Specifying Colors and Effects](ColorTool.md) *//how to. bold, italic, foreground, background, effects*
-			 - **Customizing Console Colors** *//features overview. ANSI, console, log console*
+			 - **Customizing Console** *//features overview. ANSI, console, log console*
 				 - **Customizing ANSI Colors**
-				 - [Customizing Console View](ConsoleColor.md)
+				 - [Customizing Console Colors](ConsoleColor.md)
 				 - **Customizing Log Console**
 			 - **Configuring Console Font**
 			 - **Configuring Database Console Colors**
