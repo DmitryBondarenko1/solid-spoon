@@ -3,9 +3,8 @@
 
  - Meet IntelliJ IDEA
  - Configuring the IDE
-	 - Overview of the Configuring Section 
 	 - Configuring the Editor 
-		 - General
+		 - Managing General Editor Settings
 			 - **
 			 - Configuring General Console Settings
 			 - **
