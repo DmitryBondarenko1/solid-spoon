@@ -2,7 +2,7 @@
 
 IntelliJ IDEA enables you to define your habitual view of the application console. Thus, you can individually configure color, font style, and highlighting rules for input, error, and output messages. 
 
-**To customize console**
+**To customize console colors**
 
  1. Open the **Settings/Preferences** dialog.
  2. Navigate to **Editor** -> **General** -> **Color Scheme** -> **Console Colors**. 
