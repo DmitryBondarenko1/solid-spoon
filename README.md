@@ -3,7 +3,7 @@
 **IntelliJ IDEA Help**
 
  - **
- - Configuring the IDE //
+ - Configuring the IDE
 	 - Configuring the Editor *//features overview. personalize source code appearance, customize editor etc*
 		 - Managing General Editor Settings *//how to configure mouse, soft wraps, virtual space etc*
 			 - **
