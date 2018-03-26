@@ -21,7 +21,7 @@
 			- **
 		- Configuring Intentions
 		- **
-	- Language & Frameworks
+	- Configuring Language & Frameworks
 		- **
 		- Configuring Play Configuration
 		- **
