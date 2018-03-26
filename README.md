@@ -38,5 +38,5 @@
 			- **Running Console** *//how to run a console*
 			- **Managing Console** *//how to. toolbar, resizing, floating etc*
 		- **
- - Tutorials
- 	 - **How to customize console colors and fonts**
+ - [Tutorials](Tutorials.md)
+ 	 - **[How to customize console colors and fonts](HowTo.md)**
