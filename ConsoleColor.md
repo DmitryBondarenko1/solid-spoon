@@ -4,7 +4,7 @@ IntelliJ IDEA enables you to define your habitual view of the application consol
 
 **To customize console view**
 
- 1. Open the **Settings/Preferences** dialog. ![enter image description here](https://github.com/DmitryBondarenko1/solid-spoon/blob/master/settings.jpg)
+ 1. Open the **Settings/Preferences** dialog.
  2. Navigate to **Editor** -> **General** -> **Color Scheme** -> **Console Colors**. 
  3. Select the IntelliJ IDEA color scheme you want to customize from the **Scheme** dropdown list at the top of the menu. 
  
