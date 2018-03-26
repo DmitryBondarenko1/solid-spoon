@@ -9,8 +9,9 @@
 			 - **
 			 - Configuring General Console Settings
 			 - **
-		 - [Configuring the Application Color Scheme](Scheme.md)
+		 - Configuring the Application Color Scheme
 			 - **
+			 - [Selecting Color Scheme](Scheme.md)
 			 - Customizing Console Colors
 				 - [Using Color Tool](ColorTool.md)
 				 - Customizing ANSI Colors 
