@@ -39,4 +39,4 @@
 			- **Managing Console** *//how to. toolbar, resizing, floating etc*
 		- **
  - [Tutorials](Tutorials.md)
- 	 - **[How to customize console colors and fonts](HowTo.md)**
+ 	 - **[How to Customize Console Colors and Fonts](HowTo.md)**
