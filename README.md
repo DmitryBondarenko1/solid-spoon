@@ -7,10 +7,9 @@
 	 - Configuring the Editor 
 		 - General
 			 - **
-			 - [Configuring Color Scheme](Scheme.md)
-			 - Configuring Console
+			 - Configuring General Console Settings
 			 - **
-		 - Configuring the Application Color Scheme
+		 - [Configuring the Application Color Scheme](Scheme.md)
 			 - **
 			 - Customizing Console Colors
 				 - [Using Color Tool](ColorTool.md)
