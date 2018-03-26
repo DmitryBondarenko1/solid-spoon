@@ -4,8 +4,8 @@
 
  - Meet IntelliJ IDEA	
  	 - Discover IntelliJ IDEA *//features overview. Personalizing source code appearance, customizing editor etc*
-	 - Editor Basics *//what is editor*
-		 - Console Basics *//what is console*	 
+	 - Editor Basics *//introduction*
+		 - Console Basics *//introduction, console types, code completion, syntax check etc** 	 
 	 - **	 
  - Configuring the IDE
 	 - Configuring the Editor *//features overview. Personalizing source code appearance, customizing editor etc*
@@ -38,9 +38,8 @@
 			- **
 - Building, Running, Testing and Deploying Applications
 	- **
-		- [Using Console](OverViewConsole.md) *//features overview. console types, code completion, syntax check etc*
-			- **Running Console** *//how to run a console*
-			- **Managing Console** *//how to. toolbar, resizing, floating etc*
+		- **Running Console** *//how to run a console*
+		- **Managing Console** *//how to. toolbar, resizing, floating etc*
 		- **
  - [Tutorials](Tutorials.md)
  	 - **[How to Customize Console Colors and Fonts](HowTo.md)**
