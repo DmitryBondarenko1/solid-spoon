@@ -9,15 +9,15 @@
 			 - **
 			 - **Managing General Console Settings** *//how to. console soft wraps, buffer size*
 			 - **
-		 - **Managing Application Appearance** *//features overview. general, console, debugger etc*
+		 - **Managing Editor Color Scheme** *//features overview. general, console, debugger etc*
 			 - **
-			 - [Managing Color Scheme](Scheme.md) *//how to. darcula, default, import, export, color tool*
-			 - [Specifying Colors and Effects](ColorTool.md) *//how to. bold, italic, foreground, background, effects*
-			 - **Customizing Console** *//features overview. ANSI, console, log console*
+			 - [Configuring, Adding and Deleting Color Schemes](Scheme.md) *//how to. darcula, default, import, export, color tool*
+			 - [Specifying Editor Colors and Effects](ColorTool.md) *//how to. bold, italic, foreground, background, effects*
+			 - **Customizing Editor Console** *//features overview. ANSI, console, log console*
 				 - **Customizing ANSI Colors**
 				 - [Customizing Console Colors](ConsoleColor.md)
 				 - **Customizing Log Console**
-			 - **Configuring Console Font**
+			 - **Configuring Editor Console Font**
 			 - **Configuring Database Console Colors**
 			- **
 		- **Configuring Intentions** *//run query in console parameter*
