@@ -35,6 +35,6 @@
 - Building, Running, Testing and Deploying Applications
 	- **
 		- [Using Console](OverViewConsole.md) *//features overview. code completion, syntax check etc*
-			- Running Console *//how to open a console*
+			- Running Console *//how to run a console*
 			- Managing Console *//how to. resizing, console actions etc*
 		- **
