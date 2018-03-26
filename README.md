@@ -5,7 +5,7 @@
  - Meet IntelliJ IDEA	
  	 - Discover IntelliJ IDEA *//features overview. Personalizing source code appearance, customizing editor etc*
 	 - Editor Basics *//introduction*
-		 - Console Basics *//introduction, console types, code completion, syntax check etc** 	 
+		 - **Console Basics** *//introduction, console types, code completion, syntax check etc** 	 
 	 - **	 
  - Configuring the IDE
 	 - Configuring the Editor *//features overview. Personalizing source code appearance, customizing editor etc*
