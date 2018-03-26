@@ -2,13 +2,13 @@
 **IntelliJ IDEA Help**
 
  - **
- - Configuring the IDE
-	 - Configuring the Editor 
-		 - Managing General Editor Settings
+ - Configuring the IDE //
+	 - Configuring the Editor //overview.personalize source code appearance, customize editor etc
+		 - Managing General Editor Settings //configure mouse, soft wraps, virtual space etc
 			 - **
-			 - Managing General Console Settings
+			 - Managing General Console Settings //soft wraps, buffer size
 			 - **
-		 - Configuring the Application Color Scheme
+		 - Configuring the Application Color Scheme //
 			 - **
 			 - [Selecting Color Scheme](Scheme.md)
 			 - Customizing Console Colors
