@@ -13,7 +13,7 @@
 			 - **
 			 - [Selecting Color Scheme](Scheme.md) *//how to. darcula, default, import, export*
 			 - **Customizing Console Colors** *//features overview. ANSI, console, log console*
-				 - [Using Color Tool](ColorTool.md) *//how to. color selector*
+				 - [Specifying Colors](ColorTool.md) *//how to. bold, italic, foreground, background, effects*
 				 - **Customizing ANSI Colors**
 				 - [Customizing Console Colors](ConsoleColor.md)
 				 - **Customizing Log Console**
