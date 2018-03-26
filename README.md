@@ -15,7 +15,7 @@
 			 - **
 		 - **Managing Editor Color Scheme** *//features overview. general, console, debugger etc*
 			 - **
-			 - [Configuring, Adding and Deleting Color Schemes](Scheme.md) *//how to. darcula, default, import, export, color tool*
+			 - [Configuring, Adding, and Deleting Color Schemes](Scheme.md) *//how to. darcula, default, import, export, color tool*
 			 - [Specifying Editor Colors and Effects](ColorTool.md) *//how to. bold, italic, foreground, background, effects*
 			 - **Customizing Editor Console** *//features overview. ANSI, console, log console*
 				 - **Customizing ANSI Colors**
