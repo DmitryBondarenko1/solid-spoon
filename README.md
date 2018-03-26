@@ -2,7 +2,10 @@
 
 **IntelliJ IDEA Help**
 
- - **
+ - Meet IntelliJ IDEA	
+ 	 - Discover IntelliJ IDEA *//features overview. Personalizing source code appearance, customizing editor etc*
+	 - Editor Basics *//what is editor*
+	 - **	 
  - Configuring the IDE
 	 - Configuring the Editor *//features overview. Personalizing source code appearance, customizing editor etc*
 		 - Managing General Editor Settings *//how to. mouse, soft wraps, virtual space etc*
@@ -34,7 +37,6 @@
 			- **
 - Building, Running, Testing and Deploying Applications
 	- **
-		- [Using Editor](Editor.md) *//features overview. what is editor?
 		- [Using Console](OverViewConsole.md) *//features overview. console types, code completion, syntax check etc*
 			- **Running Console** *//how to run a console*
 			- **Managing Console** *//how to. toolbar, resizing, floating etc*
