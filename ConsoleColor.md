@@ -11,7 +11,7 @@ IntelliJ IDEA enables you to define your habitual view of the application consol
 Note: to customize console, your color scheme should be editable. For more information, refer to the [Selecting Color Scheme](Scheme.md) section in the [Configuring the IDE](ConfiguringIDE.md) chapter.  
 
  4. Open the **Console** section in the **Console Colors** dialog.
- 5. Select the desired console area you want to customize, see **Table 1** below for the available options. 
+ 5. Select the desired console area you want to customize. See **Table 1** below for the available options. 
  
  **Table 1. Console Color Options** 
 
