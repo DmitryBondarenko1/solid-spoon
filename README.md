@@ -11,9 +11,9 @@
 			 - **
 		 - **Configuring Application Color Scheme** *//features overview. general, console, debugger etc*
 			 - **
-			 - [Selecting Color Scheme](Scheme.md) *//how to. darcula, default, import, export*
+			 - [Configuring Color Scheme](Scheme.md) *//how to. darcula, default, import, export*
+			 - [Specifying Colors](ColorTool.md) *//how to. bold, italic, foreground, background, effects*
 			 - **Customizing Console Colors** *//features overview. ANSI, console, log console*
-				 - [Specifying Colors](ColorTool.md) *//how to. bold, italic, foreground, background, effects*
 				 - **Customizing ANSI Colors**
 				 - [Customizing Console Colors](ConsoleColor.md)
 				 - **Customizing Log Console**
