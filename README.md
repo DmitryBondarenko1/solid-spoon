@@ -34,6 +34,7 @@
 			- **
 - Building, Running, Testing and Deploying Applications
 	- **
+		- [Using Editor](Editor.md) *//features overview. what is editor?
 		- [Using Console](OverViewConsole.md) *//features overview. console types, code completion, syntax check etc*
 			- **Running Console** *//how to run a console*
 			- **Managing Console** *//how to. toolbar, resizing, floating etc*
