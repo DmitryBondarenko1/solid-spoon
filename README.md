@@ -4,23 +4,23 @@
 
  - **
  - Configuring the IDE //
-	 - Configuring the Editor *//overview. personalize source code* appearance, customize editor etc
-		 - Managing General Editor Settings //configure mouse, soft wraps, virtual space etc
+	 - Configuring the Editor *//overview. personalize source code appearance, customize editor etc*
+		 - Managing General Editor Settings *//configure mouse, soft wraps, virtual space etc*
 			 - **
-			 - Managing General Console Settings //soft wraps, buffer size
+			 - Managing General Console Settings *//console soft wraps, buffer size*
 			 - **
-		 - Configuring the Application Color Scheme //
+		 - Configuring the Application Color Scheme *//overview. general, console, debugger etc*
 			 - **
-			 - [Selecting Color Scheme](Scheme.md)
-			 - Customizing Console Colors
-				 - [Using Color Tool](ColorTool.md)
-				 - Customizing ANSI Colors 
+			 - [Selecting Color Scheme](Scheme.md) *//darcula, default, import, export
+			 - Customizing Console Colors *//ANSI, console, log console
+				 - [Using Color Tool](ColorTool.md) *//color selector*
+				 - Customizing ANSI Colors
 				 - [Customizing Console View](ConsoleColor.md)
 				 - Customizing Log Console
-			 - Configuring Console Font
-			- Configuring Database
+			 - Configuring Console Font 
+			 - Configuring Database Console Colors
 			- **
-		- Configuring Intentions
+		- Configuring Intentions *//run query in console parameter*
 		- **
 	- Configuring Language & Frameworks
 		- **
