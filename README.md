@@ -43,3 +43,10 @@
 		- **
  - [Tutorials](Tutorials.md)
  	 - **[How to Customize Console Colors and Fonts](HowTo.md)**
+ - Reference
+ 	 - Settings/Preferences Dialog
+	 		- Editor
+		 		- General
+					- Console
+				- Color Scheme
+ 
