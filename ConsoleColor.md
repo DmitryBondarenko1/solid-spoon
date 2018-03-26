@@ -26,6 +26,6 @@ Note: to customize console, your color scheme must be editable. For more informa
  6. Specify your desired console color settings using the menu in the the right-hand pane. For information on how to work with the menu, refer to section [Specifying Editor Colors and Effects](ColorTool.md) in the [Configuring the IDE](ConfiguringIDE.md) chapter. Settings you make are instantly shown in the preview at the bottom of the menu.
  7. Click **OK** or **Apply** to save the changes you have made.
 
-To learn more about consoles in the IntelliJ IDEA, see section [Using Consoles](UsingConsole.md) in chapter [Building, Running, Testing and Deploying Applications](RunningApplications.md)
+To learn more about consoles in the IntelliJ IDEA, see section [Console Basics](UsingConsole.md) in chapter [Building, Running, Testing and Deploying Applications](RunningApplications.md)
 
 For a practical example, see the [How to Customize Console Colors and Fonts](HowTo.md) article in the [Tutorials](Tutorials.md) section of this User Guide.
