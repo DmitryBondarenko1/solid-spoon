@@ -36,5 +36,5 @@
 	- **
 		- [Using Console](OverViewConsole.md) *//features overview. code completion, syntax check etc*
 			- Running Console *//how to run a console*
-			- Managing Console *//how to. resizing, console actions etc*
+			- Managing Console *//how to. toolbar, resizing, floating etc*
 		- **
