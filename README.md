@@ -6,7 +6,7 @@
 	 - Configuring the Editor 
 		 - Managing General Editor Settings
 			 - **
-			 - Configuring General Console Settings
+			 - Managing General Console Settings
 			 - **
 		 - Configuring the Application Color Scheme
 			 - **
