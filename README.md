@@ -1,7 +1,7 @@
 
 **IntelliJ IDEA Help**
 
- - Meet IntelliJ IDEA
+ - **
  - Configuring the IDE
 	 - Configuring the Editor 
 		 - Managing General Editor Settings
