@@ -28,4 +28,4 @@ Note: to customize console, your color scheme should be editable. For more infor
 
 To learn more about consoles in the IntelliJ IDEA, see section [Using Consoles](UsingConsole.md) in chapter [Building, Running, Testing and Deploying Applications](RunningApplications.md)
 
-For a practical example, see the [How to Customize Console Colors and Fonts](HowTo.md) article in the [Tutorials](Tutorial.md) section of this User Guide.
+For a practical example, see the [How to Customize Console Colors and Fonts](HowTo.md) article in the [Tutorials](Tutorials.md) section of this User Guide.
