@@ -9,7 +9,7 @@
 			 - **
 			 - **Managing General Console Settings** *//how to. console soft wraps, buffer size*
 			 - **
-		 - **Configuring the Application Color Scheme** *//features overview. general, console, debugger etc*
+		 - **Configuring Application Color Scheme** *//features overview. general, console, debugger etc*
 			 - **
 			 - [Selecting Color Scheme](Scheme.md) *//how to. darcula, default, import, export*
 			 - **Customizing Console Colors** *//features overview. ANSI, console, log console*
