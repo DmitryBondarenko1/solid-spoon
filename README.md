@@ -20,21 +20,21 @@
 			 - Configuring Console Font 
 			 - Configuring Database Console Colors
 			- **
-		- Configuring Intentions *//"run query in console" parameter*
+		- Configuring Intentions *//run query in console parameter*
 		- **
 	- Configuring Language & Frameworks
 		- **
-		- Configuring Play Configuration *//"show on console run" parameter
+		- Configuring Play Configuration *//show on console run parameter*
 		- **
-	- Configuring Tools *//feature overview. integration with 3rd party application  
+	- Configuring Tools *//feature overview. integration with 3rd party application*
 		- **
 		- Configuring Database 
 			- **
-			- Configuring Database Console User Parameters *//how to. enable in console and SQL, enable in string literals
+			- Configuring Database Console User Parameters *//how to. enable in console and SQL, enable in string literals*
 			- **
 - Building, Running, Testing and Deploying Applications
 	- **
-		- [Using Console](OverViewConsole.md) *//features overview. code completion, syntax check etc
-			- Running Console *//how to open a console
-			- Managing Console *//how to. resizing, console actions etc
+		- [Using Console](OverViewConsole.md) *//features overview. code completion, syntax check etc*
+			- Running Console *//how to open a console*
+			- Managing Console *//how to. resizing, console actions etc*
 		- **
