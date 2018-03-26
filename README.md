@@ -1,9 +1,10 @@
 
+
 **IntelliJ IDEA Help**
 
  - **
  - Configuring the IDE //
-	 - Configuring the Editor //overview.personalize source code appearance, customize editor etc
+	 - Configuring the Editor *//overview. personalize source code* appearance, customize editor etc
 		 - Managing General Editor Settings //configure mouse, soft wraps, virtual space etc
 			 - **
 			 - Managing General Console Settings //soft wraps, buffer size
