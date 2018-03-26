@@ -4,8 +4,8 @@
 
  - **
  - Configuring the IDE
-	 - Configuring the Editor *//features overview. personalize source code appearance, customize editor etc*
-		 - Managing General Editor Settings *//how to configure mouse, soft wraps, virtual space etc*
+	 - Configuring the Editor *//features overview. Personalizing source code appearance, customizing editor etc*
+		 - Managing General Editor Settings *//how to. mouse, soft wraps, virtual space etc*
 			 - **
 			 - **Managing General Console Settings** *//how to. console soft wraps, buffer size*
 			 - **
