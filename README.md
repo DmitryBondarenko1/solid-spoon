@@ -47,7 +47,7 @@
  	 - Settings/Preferences Dialog
 	 	 - Editor
 		 	 - General
-			 	 - Console
-			 - Color Scheme
+			 	 - **Console**
+			 - **Color Scheme**
  
 
