@@ -29,7 +29,7 @@
 		- **
 		- Configuring Database
 			- **
-			- Configuring User Parameters
+			- Configuring Database Console User Parameters
 			- **
 - Building, Running, Testing and Deploying Applications
 	- Overview of the Section
