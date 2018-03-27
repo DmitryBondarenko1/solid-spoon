@@ -42,5 +42,5 @@ Let's have a look at what we have set up and run a simple Java "Hello World" app
 
 **Managing Console**
 
-
+Since IntelliJ idea is a smart tool, it further flexibly enables you to fine-tune the console view by re-sizing, re-locating it on the go.
 
