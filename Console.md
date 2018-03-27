@@ -24,4 +24,3 @@ As above said, you can flexibly tune IntelliJ's view according to your preferenc
 
 Go to **Settings** -> **Editor** -> **Color Scheme**.
 
-If you want to change settings of the current scheme, you have to create it's copy. To do that, click Save as button, and type the new scheme name in the dialog box.
