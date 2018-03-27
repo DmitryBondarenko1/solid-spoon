@@ -46,11 +46,11 @@ Select the desired console area you want to customize, see table below for the a
 
 |Console Area|  Description|
 |--|--|
-| Background| Defines the background color |
-| Error output | Defines the color of error messages |
-| Standard output | Defines the color of output messages  |
-| System output | Defines the color of output system messages |
-| User input| Defines the color of user input messages |
+| Background| Defines a background color |
+| Error output | Defines a color of error messages |
+| Standard output | Defines acolor of output messages  |
+| System output | Defines a color of output system messages |
+| User input| Defines a color of user input messages |
 
 Specify your desired console color settings using the menu in the the right-hand pane.
 
