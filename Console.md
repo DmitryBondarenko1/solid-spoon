@@ -10,7 +10,7 @@
  
  **Introduction**
 
-Console in IntelliJ IDEA is a much more advanced tool than a standard application console. Besides common functions like input and output it can change it's appearance according to your preferences to increase its readabilty and helps you code more efficiently with it's smart functions:
+Console in IntelliJ IDEA is a much more advanced tool than a standard application console. Besides common functions like input and output it can change it's appearance according to your preferences and helps you code more efficiently with it's smart functions:
     
  - Code completion 
  - Syntax check with inspections
