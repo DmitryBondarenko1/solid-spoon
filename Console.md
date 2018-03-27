@@ -58,7 +58,7 @@ Note that along with Console, you set your own colors and fonts for the Debugger
 
 **Running Console**
 
-Let's have a look at what we have set up and run a simple Java "Hello World" application with console output. After clicking **Run** in the Editor panel, you see a console with the appication output at the bottom of the IntelliJ IDEA main screen. Note that all messages are highlighted in accordance with the settings you have made.
+Let's have a look at what we have just set up and run a simple Java "Hello World" application with console output. After clicking **Run** in the Editor panel, you see a console with the appication output at the bottom of the IntelliJ IDEA main screen. Note that all messages are highlighted in accordance with the settings you have made.
 
 **Managing Console**
 
