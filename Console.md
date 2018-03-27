@@ -42,8 +42,6 @@ Move to the colors settings in the **Console Colors** menu. Here you can define 
 
 To customize console color
 
-Navigate to **Editor** -> **General** -> **Color Scheme** -> **Console Colors**. 
-
 Select the desired console area you want to customize. See below for the available options.
 
 |Console Area|  Description|
