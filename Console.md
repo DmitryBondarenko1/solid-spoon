@@ -15,7 +15,7 @@ This article covers only standard IntelliJ IDEA application console. For inforam
  
  **Selecting Color Scheme**
 
-As said above, you can flexibly tune IntelliJ IDEA's console appearance according to your preferences. In particular, you can individually configure color, font style, and highlighting rules for input, error, and output messages.  To do so, first you have to select a Color Scheme.
+As said above, you can flexibly tune IntelliJ IDEA's console appearance according to your preferences. To do so, first you have to select a Color Scheme.
 
 IntelliJ IDEA's appearance is set up by Color Schemes. They define interface color and syntax highlighting in the editor, search results, Debugger, and consoles. By default, IntelliJ IDEA has two Color Schemes: default (white colored) and Darcula (dark colored). You can add, delete, and modify Color Schemes.
 
