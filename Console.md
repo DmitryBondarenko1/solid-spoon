@@ -25,7 +25,7 @@ Select a Color Scheme you want to further edit from the **Scheme** dropdown list
 
 ![enter image description here](https://github.com/DmitryBondarenko1/solid-spoon/blob/master/Scheme.jpg)
 
-Once set up, you can easily switch to a desired scheme in the main screen of IntelliJ IDEA. To switch between schemes, choose **View** -> **Quick Switch Scheme** in the main menu. In the pop-up window that opens, select the desired scheme (Colors and Fonts, Code Style, etc.). In the suggestion list, click the desired option.
+Once set up, you can easily switch to a desired scheme in the main screen of IntelliJ IDEA. To switch between schemes, choose **View** -> **Quick Switch Scheme** in the main menu. In the pop-up window that opens, select the desired scheme (Colors and Fonts, Code Style, etc.). In the appeared list, click the desired option.
 
 ![enter image description here](https://github.com/DmitryBondarenko1/solid-spoon/blob/master/Switch.jpg)
 
