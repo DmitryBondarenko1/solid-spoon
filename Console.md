@@ -24,3 +24,4 @@ As above said, you can flexibly tune IntelliJ's view according to your preferenc
 
 Go to **Settings** -> **Editor** -> **Color Scheme**.
 
+And select a color scheme you want to change.  Note that here you also have the ability to Export and Import color schemes. Schemes are saved in .icls, .jar or .xml format based on your needs. 
