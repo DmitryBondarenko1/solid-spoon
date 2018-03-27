@@ -58,9 +58,9 @@ Note that along with Console, you set your own colors and fonts for the Debugger
 
 **Running Console**
 
-Let's have a look at what we have just set up and run a simple Java "Hello World" application with console output. After clicking **Run** in the Editor panel, you see a console with the appication output at the bottom of the IntelliJ IDEA main screen. Note that all messages are highlighted in accordance with the settings you have made.
+Let's have a look at what you have just set up and run a simple Java "Hello World" application having console output. After clicking **Run** in the Editor panel, you see a console with the application output at the bottom of the IntelliJ IDEA main screen. Note that all console messages are highlighted in accordance with the settings you have made.
 
 **Managing Console**
 
-Since IntelliJ idea is a smart tool, it further flexibly enables you to fine-tune the console view by re-sizing, re-locating it on the go. Let's play a with the application we've just Run and make it float. To do so, navigate to the right-hand pane menu of the console and choose Floating option as the image shows. Console now becomes not attached to the main application screen and is displayed on top of other windows in the operating system. 
+Since IntelliJ idea is a smart tool, it enables you to fine-tune the console view even firther by re-sizing, re-locating it on the go. Let's play a bit with the application you just started and make it float. To do so, navigate to the right-hand pane menu of the console and choose **Floating** option as the image shows. Console now becomes not attached to the main application screen and is displayed on top of other windows in the operating system. 
 
