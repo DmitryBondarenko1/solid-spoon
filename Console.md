@@ -68,6 +68,8 @@ You can always return to default color settings by clicking **Reset** in the top
 
 Let's have a look at what you have just set up and run a simple Java "Hello World" application with console output. After clicking **Run** in the main menu, you see a console with the application output at the bottom of the IntelliJ IDEA main screen. Note that all console messages are highlighted in accordance with the settings you have made.
 
+https://github.com/DmitryBondarenko1/solid-spoon/blob/master/hello.jpg
+
 **Managing Console**
 
 Since IntelliJ idea is a smart tool, it enables you to fine-tune a console view even further by manupulating it on the go. Let's play a bit with the application you just started and make it float. To do so, navigate to the right-hand pane menu of the console and choose **Floating** option as the image below shows. Console now becomes unattached from the main application screen and it is displayed on top of other windows in the operating system. 
