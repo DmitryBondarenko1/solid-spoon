@@ -60,6 +60,8 @@ Select a color in the ANSI menu from the list and specify ANSI color to be assig
 
 Note that along with Console, you can set your own colors and fonts for the Debugger and other IntelliJ IDEA components.
 
+You can always return to default color setting by clicking **Reset** in the top right corner of the menu.
+
 **Running Console**
 
 Let's have a look at what you have just set up and run a simple Java "Hello World" application with console output. After clicking **Run** in the main menu, you see a console with the application output at the bottom of the IntelliJ IDEA main screen. Note that all console messages are highlighted in accordance with the settings you have made.
