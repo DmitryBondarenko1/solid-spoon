@@ -16,7 +16,7 @@ Console in IntelliJ IDEA is a more advanced tool than a standard application con
 
 As said above, you can flexibly tune IntelliJ IDEA's console appearance according to your preferences. In particular, you can individually configure color, font style, and highlighting rules for input, error, and output messages.  To do so, first you have to select a Color Scheme.
 
-IntelliJ IDEA appearance is set up by Color Schemes. They define interface color and syntax highlighting in the editor, search results, Debugger, and consoles. By default, the application has two Color Schemes: default (white colored) and Darcula (dark colored). You can add, delete, and modify Color Schemes.
+IntelliJ IDEA's appearance is set up by Color Schemes. They define interface color and syntax highlighting in the editor, search results, Debugger, and consoles. By default, the application has two Color Schemes: default (white colored) and Darcula (dark colored). You can add, delete, and modify Color Schemes.
 
 **To customize color scheme**
 
@@ -40,7 +40,7 @@ Next, navigate to the colors settings in the **Console Colors** menu. Here you c
 
 **To customize console color**
 
-Select the desired console area you want to customize, see table below for the available options.
+Select the desired console area you want to customize, see table below for available options.
 
 |Console Area|  Description|
 |--|--|
@@ -68,5 +68,5 @@ Let's have a look at what you have just set up and run a simple Java "Hello Worl
 
 **Managing Console**
 
-Since IntelliJ idea is a smart tool, it enables you to fine-tune the console view even further by manupulating it on the go. Let's play a bit with the application you just started and make it float. To do so, navigate to the right-hand pane menu of the console and choose **Floating** option as the image below shows. Console now becomes disattached from the main application screen and it is displayed on top of other windows in the operating system. 
+Since IntelliJ idea is a smart tool, it enables you to fine-tune the console view even further by manupulating it on the go. Let's play a bit with the application you just started and make it float. To do so, navigate to the right-hand pane menu of the console and choose **Floating** option as the image below shows. Console now becomes unattached from the main application screen and it is displayed on top of other windows in the operating system. 
 
