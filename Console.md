@@ -65,7 +65,7 @@ You can always return to default color settings by clicking **Reset** in the top
 
 **Running Console**
 
-Let's have a look at what you have just set up and run a simple Java "Hello World" application with console output. After clicking **Run** in the main menu, you see a console with the application output at the bottom of the IntelliJ IDEA main screen. Note that all console console output is highlighted with red dotted line in accordance with the settings you have made. 
+Let's have a look at what you have just set up and run a simple Java "Hello World" application with console output. After clicking **Run** in the main menu, you see a console with the application output at the bottom of the IntelliJ IDEA main screen. Note that application output is highlighted with red dotted line in accordance with the settings you have made. 
 
 ![enter image description here](https://github.com/DmitryBondarenko1/solid-spoon/blob/master/hello.jpg)
 
