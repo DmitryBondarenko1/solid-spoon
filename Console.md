@@ -34,6 +34,8 @@ Select a Color Scheme you want to further edit from the **Scheme** dropdown list
 
 Once set up, you can easily switch to a desired scheme in the main screen of IntelliJ IDEA. To switch between schemes, choose **View** -> **Quick Switch Scheme** in the main menu. In the pop-up window that opens, select the desired scheme (Colors and Fonts, Code Style, etc.). In the suggestion list, click the desired option.
 
+![enter image description here](https://github.com/DmitryBondarenko1/solid-spoon/blob/master/Switch.jpg)
+
 **Customizing Console Font** 
  
 Once you selected a Color Scheme, you can proceed to configure a console font. Navigate to the **Console Font** section where you can define preferred font style, size, spacing, and other font parameters. While **Font**, **Size**, **Line Spacing** parameters are self-explanatory, **Fallback Font** parameter is used to display symbols not supported by the main font. As you make your settings, font example is instantly shown in the preview screen at the bottom of the menu.
