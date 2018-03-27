@@ -34,11 +34,11 @@ Once set up, you can easily switch to a desired scheme in the main screen of Int
 
 **Customizing Console Font** 
  
-Once you selected a color scheme, you can proceed to configure a console font. Navigate to the **Console Font** section where you can define preferred font style, size, spacing, and other font parameters. While **Font**, **Size**, **Line Spacing** parameters are self-explanatory, **Fallback Font** parameter is used for symbols not supported by the main font. As you make your settings, font example is instantly shown in the preview at the bottom of the page.
+Once you selected a color scheme, you can proceed to configure a console font. Navigate to the **Console Font** section where you can define preferred font style, size, spacing, and other font parameters. While **Font**, **Size**, **Line Spacing** parameters are self-explanatory, **Fallback Font** parameter is used to display symbols not supported by the main font. As you make your settings, font example is instantly shown in the preview screen at the bottom of the menu.
 
 **Customizing Console Colors** 
 
-Move to the colors settings in the **Console Colors** menu. Here you can define how different messages in the console will look like by changing their color, font, and apply effects. Additionally, you can specify how ANSI colors are displayed in the console.
+Navigate to the colors settings in the **Console Colors** menu. Here you can define how different messages in the console will look like by changing their color, font, and apply effects. Additionally, you can also define ANSI and Log Console colors.
 
 To customize console color
 
@@ -53,6 +53,10 @@ Select the desired console area you want to customize. See below for the availab
 | User input| Defines the view of user input messages |
 
 Specify your desired console color settings using the menu in the the right-hand pane.
+
+To re-assign ANSI colors
+
+Select a color in the ANSI menu from the list and specify ANSI color to be assigned to it instead using the menu in the the right-hand pane.
 
 Note that along with Console, you set your own colors and fonts for the Debugger and other IntelliJ IDEA components.
 
