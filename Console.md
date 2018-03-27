@@ -23,7 +23,7 @@ IntelliJ IDEA's appearance is set up by Color Schemes. They define interface col
 
 Go to **Settings** -> **Editor** -> **Color Scheme**.
 
-Select a Color Scheme you want to further edit from the **Scheme** dropdown list. Note that here you also have the ability to **Export** and **Import** Color Schemes. Schemes are saved in .icls, .jar or .xml. You can create your own schemes and share them with other users around the world.
+Select a Color Scheme you want to further edit from the **Scheme** dropdown list. Note that here you also have the ability to **Export** and **Import** Color Schemes. Schemes are saved in .icls, .jar or .xml format. You can create your own schemes and share them with other users around the world.
 
 ![enter image description here](https://github.com/DmitryBondarenko1/solid-spoon/blob/master/Scheme1.jpg)
 
