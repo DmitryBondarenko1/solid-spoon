@@ -22,13 +22,13 @@ Console in IntelliJ IDEA is a much more advanced tool than a standard applicatio
 
 As said above, you can flexibly tune IntelliJ's console view according to your preferences to increase its readabilty. In particular, can individually configure color, font style, and highlighting rules for input, error, and output messages.  To do so, you have to work with Color Schemes.
 
-IntelliJ IDEA appearance is defined by Color Schemes. Color Schemes are various styles of how your application looks like. They define  syntax and error highlighting in the editor, search results, Debugger and consoles. By default, the application has two Color Schemes: default and Darcula. 
+IntelliJ IDEA appearance is defined by Color Schemes. Color Schemes are various styles of how your application looks like. They define  syntax and error highlighting in the editor, search results, Debugger and consoles. By default, the application has two Color Schemes: default and Darcula. You can add, delete, and modify Color Schemes.
 
-To select a color scheme
+To customize a color scheme
 
 Go to **Settings** -> **Editor** -> **Color Scheme**.
 
-And select a color scheme you want to change.  Note that here you also have the ability to Export and Import color schemes. Schemes are saved in .icls, .jar or .xml format based on your needs. 
+And select a Color scheme you want to modify.  Note that here you also have the ability to Export and Import color schemes. Schemes are saved in .icls, .jar or .xml format based on your needs. 
 
 **Customizing Console Font** 
  
