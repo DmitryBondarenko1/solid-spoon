@@ -10,7 +10,7 @@
  
  **Introduction**
 
-Console in IntelliJ IDEA is a much more advanced tool than a standard application console. Besides common functions like input and output it can change it's appearance according to your preferences and helps you write code more efficiently with it's smart functions:
+Console in IntelliJ IDEA is a much more advanced tool than a standard application console. Besides common functions like input and output it can change it's appearance according to your preferences to increase its readabilty and helps you write code more efficiently with it's smart functions:
     
  - Code completion 
  - Syntax check with inspections
@@ -20,7 +20,7 @@ Console in IntelliJ IDEA is a much more advanced tool than a standard applicatio
  
  **Configuring Color Scheme**
 
-As said above, you can flexibly tune IntelliJ's console view according to your preferences to increase its readabilty. In particular, can individually configure color, font style, and highlighting rules for input, error, and output messages.  To do so, you have to configure Color Schemes.
+As said above, you can flexibly tune IntelliJ's console view according to your preferences to increase. In particular, can individually configure color, font style, and highlighting rules for input, error, and output messages.  To do so, you have to configure Color Schemes.
 
 IntelliJ IDEA appearance is defined by Color Schemes. They define syntax and error highlighting in the editor, search results, Debugger and consoles. By default, the application has two Color Schemes: default (white colored) and Darcula (dark colored). You can add, delete, and modify Color Schemes.
 
