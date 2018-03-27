@@ -41,7 +41,7 @@ Next, navigate to the color settings in the **Console Colors** menu. Here you ca
 
 **To customize console color**
 
-Select the desired console area you want to customize, see table below for available options.
+Select a desired console area you want to customize, see table below for available options.
 
 |Console Area|  Description|
 |--|--|
