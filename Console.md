@@ -58,6 +58,8 @@ Select the desired console area you want to customize, see table below for the a
 
 Specify your desired console color settings using the menu in the the right-hand pane.
 
+![enter image description here](https://github.com/DmitryBondarenko1/solid-spoon/blob/master/ConsoleColor.jpg)
+
 **To re-assign ANSI colors**
 
 Select a color in the ANSI menu from the list and specify ANSI color to be assigned in the the right-hand pane.
