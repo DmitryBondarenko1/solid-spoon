@@ -62,11 +62,11 @@ Note that along with Console, you can set your own colors and fonts for the Debu
 
 **Running Console**
 
-Let's have a look at what you have just set up and run a simple Java "Hello World" application having console output. After clicking **Run** in the Editor panel, you see a console with the application output at the bottom of the IntelliJ IDEA main screen. Note that all console messages are highlighted in accordance with the settings you have made.
+Let's have a look at what you have just set up and run a simple Java "Hello World" application with console output. After clicking **Run**, you see a console with the application output at the bottom of the IntelliJ IDEA main screen. Note that all console messages are highlighted in accordance with the settings you have made.
 
-As mentioned before, IntelliJ IDEA can do more than just a simple console. Let's make sure and discover some of its smart functions. To do this, open a standard JavaScipt project with a piece of code shown below. Run this project and navigate to console. Try running a JS degug command. As you can see it is executed and syntax error are highlighted.
+As mentioned before, IntelliJ IDEA can do more than just a simple console. Let's make sure and discover some of its smart functions. To do this, open a standard JavaScipt project with a piece of code shown below. Run this project and navigate to console. Try running a JS degug command. As you can see it is executed and syntax errors are highlighted.
 
 **Managing Console**
 
-Since IntelliJ idea is a smart tool, it enables you to fine-tune the console view even firther by re-sizing, re-locating it on the go. Let's play a bit with the application you just started and make it float. To do so, navigate to the right-hand pane menu of the console and choose **Floating** option as the image shows. Console now becomes not attached to the main application screen and is displayed on top of other windows in the operating system. 
+Since IntelliJ idea is a smart tool, it enables you to fine-tune the console view even further by manupulating it on the go. Let's play a bit with the application you just started and make it float. To do so, navigate to the right-hand pane menu of the console and choose **Floating** option as the image below shows. Console now becomes disattached from the main application screen and is displayed on top of other windows in the operating system. 
 
