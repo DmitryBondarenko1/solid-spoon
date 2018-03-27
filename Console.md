@@ -30,8 +30,8 @@ And select a color scheme you want to change.  Note that here you also have the 
 
 **Customizing Console Font** 
  
-Now lets navigate to **Console Font** section where you can define your preferred font style, size, spacing and other font parameters. While Font, size, line spacing parameters are self-explanatory, **Fallback Font** parameter is used for symbols not supported by the main font. As you make your settings, font example is instantly shown in the preview at the bottom of the page.
+Now lets navigate to the **Console Font** section where you can define preferred font style, size, spacing, and other font parameters. While Font, size, line spacing parameters are self-explanatory, **Fallback Font** parameter is used for symbols not supported by the main font. As you make your settings, font example is instantly shown in the preview at the bottom of the page.
 
 **Customizing Console Colors** 
 
-Now lets move to the Colors settins in the Console Color menu. Here you can define how different message in the console will look like by changing their color, font and applying effects. Additionally you can specify how ANSI colors are displayed in the console.
+Now lets move to the colors settings in the **Console Colors** menu. Here you can define how different messages in the console will look like by changing their color, font, and apply effects. Additionally you can specify how ANSI colors are displayed in the console.
