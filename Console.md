@@ -71,6 +71,6 @@ Let's have a look at what you have just set up and run a simple Java "Hello Worl
 
 **Managing Console**
 
-Since IntelliJ idea is a smart tool, it enables you to fine-tune a console view even further by manupulating it on the go. Let's play a bit with the application you have just run and make console float. To do so, navigate to the right-hand pane menu of the console and choose **Floating** option as the image below shows. Console now becomes unattached from the main application screen and it is displayed on top of other windows in the operating system. 
+Since IntelliJ idea is a smart tool, it enables you to fine-tune a console view even further by manupulating it on the go. Let's play a bit with the application you have just run and make console float. To do so, navigate to the right-hand pane menu of the console and choose **Floating** option as the image below shows. Console now becomes unattached from the main application screen and it can even be located on top of other windows in the operating system. 
 
 ![enter image description here](https://github.com/DmitryBondarenko1/solid-spoon/blob/master/float1.jpg)
