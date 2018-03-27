@@ -45,11 +45,11 @@ Select a desired console area you want to customize, see table below for availab
 
 |Console Area|  Description|
 |--|--|
-| Background| Defines a background color |
-| Error output | Defines a color of error messages |
-| Standard output | Define s acolor of output messages  |
-| System output | Defines a color of output system messages |
-| User input| Defines a color of user input messages |
+| Background| Defines the background color |
+| Error output | Defines the color of error messages |
+| Standard output | Define the color of output messages  |
+| System output | Defines the color of output system messages |
+| User input| Defines the color of user input messages |
 
 Specify your desired console color settings using the menu in the the right-hand pane.
 
