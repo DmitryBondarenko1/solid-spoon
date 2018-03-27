@@ -42,5 +42,5 @@ Let's have a look at what we have set up and run a simple Java "Hello World" app
 
 **Managing Console**
 
-Since IntelliJ idea is a smart tool, it further flexibly enables you to fine-tune the console view by re-sizing, re-locating it on the go.
+Since IntelliJ idea is a smart tool, it further flexibly enables you to fine-tune the console view by re-sizing, re-locating it on the go. Let's play a with the application we've just Run and make it float. To do so, navigate to the right-hand pane menu of the console and choose Floating option as the image shows. Console now becomes not attached to the main application screen and is displayed on top of other windows in the operating system. 
 
