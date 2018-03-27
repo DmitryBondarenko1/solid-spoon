@@ -54,11 +54,11 @@ Specify your desired console color settings using the menu in the the right-hand
 
 ![enter image description here](https://github.com/DmitryBondarenko1/solid-spoon/blob/master/ConsoleColor1.jpg)
 
+Note that along with Console, you can set your own colors and fonts for the Debugger and other IntelliJ IDEA components.
+
 **To re-assign ANSI colors**
 
 Select a color in the ANSI menu from the list and specify ANSI color to be assigned in the the right-hand pane.
-
-Note that along with Console, you can set your own colors and fonts for the Debugger and other IntelliJ IDEA components.
 
 You can always return to default color settings by clicking **Reset** in the top right corner of the menu.
 
