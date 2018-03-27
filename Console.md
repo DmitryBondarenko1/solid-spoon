@@ -2,8 +2,8 @@
 
  - Introduction
  - Configuring Color Scheme (darcula etc)
- - Customizing Console Colors (foreground ect)
  - Customizing Console Font 
+ - Customizing Console Colors (foreground ect)
  - Selecting Color (color picker)
  - Running Console
  - Managing Console
