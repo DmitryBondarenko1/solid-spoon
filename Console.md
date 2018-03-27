@@ -60,7 +60,7 @@ Select a color in the ANSI menu from the list and specify ANSI color to be assig
 
 Note that along with Console, you can set your own colors and fonts for the Debugger and other IntelliJ IDEA components.
 
-You can always return to default color setting by clicking **Reset** in the top right corner of the menu.
+You can always return to default color settings by clicking **Reset** in the top right corner of the menu.
 
 **Running Console**
 
