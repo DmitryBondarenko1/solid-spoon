@@ -37,7 +37,7 @@ Once you selected a Color Scheme, you can proceed to configure a console font. N
 
 **Customizing Console Colors** 
 
-Next, navigate to the colors settings in the **Console Colors** menu. Here you can individually configure color, font style, and highlighting rules for input, error, and output messages. Additionally, you can also define ANSI and Log Console colors.
+Next, navigate to the color settings in the **Console Colors** menu. Here you can individually configure color, font style, and highlighting rules for input, error, and output messages. Additionally, you can also define ANSI and Log Console colors.
 
 **To customize console color**
 
