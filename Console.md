@@ -24,7 +24,7 @@ As said above, you can flexibly tune IntelliJ's console view according to your p
 
 IntelliJ IDEA appearance is set up by Color Schemes. They define interface color and syntax highlighting in the editor, search results, Debugger, and consoles. By default, the application has two Color Schemes: default (white colored) and Darcula (dark colored). You can add, delete, and modify Color Schemes.
 
-To customize a color scheme
+**To customize a color scheme**
 
 Go to **Settings** -> **Editor** -> **Color Scheme**.
 
@@ -40,7 +40,7 @@ Once you selected a color scheme, you can proceed to configure a console font. N
 
 Navigate to the colors settings in the **Console Colors** menu. Here you can define how different messages in the console will look like by changing their color, font, and apply effects. Additionally, you can also define ANSI and Log Console colors.
 
-To customize console color
+**To customize console color**
 
 Select the desired console area you want to customize. See below for the available options.
 
@@ -54,7 +54,7 @@ Select the desired console area you want to customize. See below for the availab
 
 Specify your desired console color settings using the menu in the the right-hand pane.
 
-To re-assign ANSI colors
+**To re-assign ANSI colors**
 
 Select a color in the ANSI menu from the list and specify ANSI color to be assigned to it instead using the menu in the the right-hand pane.
 
