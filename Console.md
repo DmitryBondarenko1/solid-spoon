@@ -4,7 +4,6 @@
  - Configuring Color Scheme
  - Customizing Console Font 
  - Customizing Console Colors
- - Selecting Color
  - Running Console
  - Managing Console
  
