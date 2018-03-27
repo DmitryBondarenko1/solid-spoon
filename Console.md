@@ -39,3 +39,8 @@ Now lets move to the colors settings in the **Console Colors** menu. Here you ca
 **Running Console**
 
 Let's have a look at what we have set up and run a simple Java "Hello World" application with console output. After clicking **Run** in the Editor panel, you see a console with the appication output at the bottom of the IntelliJ IDEA main screen. Note that all messages are highlighted in accordance with the settings you have made.
+
+**Managing Console**
+
+
+
