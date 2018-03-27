@@ -18,7 +18,7 @@ Console in IntelliJ IDEA is a much more advanced tool than a standard applicatio
  - Scrolling through the history of commands using the arrow keys 
  - Quick documentation lookup
  
- **Configuring Color Scheme**
+ **Selecting Color Scheme**
 
 As said above, you can flexibly tune IntelliJ's console appearance according to your preferences. In particular, you can individually configure color, font style, and highlighting rules for input, error, and output messages.  To do so, first you have to select a Color Scheme.
 
@@ -29,6 +29,8 @@ IntelliJ IDEA appearance is set up by Color Schemes. They define interface color
 Go to **Settings** -> **Editor** -> **Color Scheme**.
 
 Select a Color Scheme you want to further edit from the **Scheme** dropdown list. Note that here you also have the ability to **Export** and **Import** Color Schemes. Schemes are saved in .icls, .jar or .xml format.
+
+![enter image description here](https://github.com/DmitryBondarenko1/solid-spoon/blob/master/Scheme.jpg)
 
 Once set up, you can easily switch to a desired scheme in the main screen of IntelliJ IDEA. To switch between schemes, choose **View** -> **Quick Switch Scheme** in the main menu. In the pop-up window that opens, select the desired scheme (Colors and Fonts, Code Style, etc.). In the suggestion list, click the desired option.
 
