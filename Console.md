@@ -23,17 +23,17 @@ Go to **Settings** -> **Editor** -> **Color Scheme**.
 
 Select a Color Scheme you want to further edit from the **Scheme** dropdown list. Note that here you also have the ability to **Export** and **Import** Color Schemes. Schemes are saved in .icls, .jar or .xml format.
 
-![enter image description here](https://github.com/DmitryBondarenko1/solid-spoon/blob/master/Scheme.jpg)
+![enter image description here](https://github.com/DmitryBondarenko1/solid-spoon/blob/master/Scheme1.jpg)
 
 Once set up, you can easily switch to a desired scheme in the main screen of IntelliJ IDEA. To switch between schemes, choose **View** -> **Quick Switch Scheme** in the main menu. In the pop-up window that opens, select the desired scheme (Colors and Fonts, Code Style, etc.). In the appeared list, click the desired option.
 
-![enter image description here](https://github.com/DmitryBondarenko1/solid-spoon/blob/master/Switch.jpg)
+![enter image description here](https://github.com/DmitryBondarenko1/solid-spoon/blob/master/Switch1.jpg)
 
 **Customizing Console Font** 
  
 Once you selected a Color Scheme, you can proceed to configure a console font. Navigate to the **Console Font** section where you can define preferred font style, size, spacing, and other font parameters. While **Font**, **Size**, **Line Spacing** parameters are self-explanatory, **Fallback Font** parameter is used to display symbols not supported by the main font. As you make your settings, font example is instantly shown in the preview screen at the bottom of the menu.
 
-![enter image description here](https://github.com/DmitryBondarenko1/solid-spoon/blob/master/font.jpg)
+![enter image description here](https://github.com/DmitryBondarenko1/solid-spoon/blob/master/font1.jpg)
 
 **Customizing Console Colors** 
 
