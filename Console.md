@@ -34,7 +34,7 @@ Once set up, you can easily switch to a desired scheme in the main screen of Int
  
 Once you selected a Color Scheme, you can proceed to configure a console font. Navigate to the **Console Font** section where you can define preferred font style, size, spacing, and other font parameters. While **Font**, **Size**, **Line Spacing** parameters are self-explanatory, **Fallback Font** parameter is used to display symbols not supported by the main font. As you make your settings, font example is instantly shown in the preview screen at the bottom of the menu.
 
-[enter image description here](https://github.com/DmitryBondarenko1/solid-spoon/blob/master/font.jpg)
+![enter image description here](https://github.com/DmitryBondarenko1/solid-spoon/blob/master/font.jpg)
 
 **Customizing Console Colors** 
 
