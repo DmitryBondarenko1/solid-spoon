@@ -1,4 +1,4 @@
-Working with Consoles
+**Working with Consoles**
 
  - Introduction
  -  Configuring Color Scheme (darcula etc)
@@ -7,6 +7,8 @@ Working with Consoles
  - Selecting Color (color picker)
  - Running Console
  - Managing Console
+ 
+ **Introduction**
 
 Console in IntelliJ is a much more advanced tool than a standard application console. Besides common funcions like input and output you can it can its appearance according to your preferences and helps you code more efficiently with it's smart functions:
     
