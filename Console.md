@@ -53,7 +53,7 @@ Select a desired console area you want to customize, see table below for availab
 
 Specify your desired console color settings using the menu in the the right-hand pane.
 
-![enter image description here](https://github.com/DmitryBondarenko1/solid-spoon/blob/master/ConsoleColor1.jpg)
+![enter image description here](https://github.com/DmitryBondarenko1/solid-spoon/blob/master/ConsoleColor2.jpg)
 
 Note that along with Console, you can set your own colors and fonts for the Debugger and other IntelliJ IDEA components.
 
