@@ -20,7 +20,7 @@ Console in IntelliJ is a much more advanced tool than a standard application con
  
  **Configuring Color Scheme**
 
-As above said, you can flexibly tune IntelliJ's view according to your preferences. In particular, can individually configure color, font style, and highlighting rules for input, error, and output messages. Before you start customzing your console, make sure that the current color scheme you are working with is editable. Color schemes are various styles of how your editor looks like. 
+As above said, you can flexibly tune IntelliJ's view according to your preferences. In particular, can individually configure color, font style, and highlighting rules for input, error, and output messages. IntelliJ view is defined by Color Schemes. Color Schemes are various styles of how your editor looks like. By default, the application has to Color Schemes: default and Darcula.
 
 Go to **Settings** -> **Editor** -> **Color Scheme**.
 
