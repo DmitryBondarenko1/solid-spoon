@@ -8,7 +8,7 @@ Working with Consoles
  - Running Console
  - Managing Console
 
-Console in IntelliJ is a much more advanced tool than a standard application console. Besides common funcions like input and output you can it can change its appearance according to your preference and helps you code more efficiently with its smart functions:
+Console in IntelliJ is a much more advanced tool than a standard application console. Besides common funcions like input and output you can it can its appearance according to your preferences and helps you code more efficiently with it's smart functions:
     
  - Code completion 
  - Syntax check with inspections
