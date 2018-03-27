@@ -10,13 +10,7 @@
  
  **Introduction**
 
-Console in IntelliJ IDEA is a much more advanced tool than a standard application console. Besides common functions like input and output it can change it's appearance according to your preferences and helps you code more efficiently with it's smart functions:
-    
- - Code completion 
- - Syntax check with inspections
- - Automated insertion of paired brackets, quotes and braces
- - Scrolling through the history of commands using the arrow keys 
- - Quick documentation lookup
+Console in IntelliJ IDEA is a more advanced tool than a standard application console. Besides common functions like input and output it can change it's appearance according to your preferences and helps you write code more efficiently.
  
  **Selecting Color Scheme**
 
@@ -71,8 +65,6 @@ You can always return to default color settings by clicking **Reset** in the top
 **Running Console**
 
 Let's have a look at what you have just set up and run a simple Java "Hello World" application with console output. After clicking **Run** in the main menu, you see a console with the application output at the bottom of the IntelliJ IDEA main screen. Note that all console messages are highlighted in accordance with the settings you have made.
-
-As mentioned before, IntelliJ IDEA can do more than just a simple console. Let's make sure of it and also discover some of its smart functions. To do this, open a standard JavaScipt project with a piece of code shown below. Run this project and navigate to console. Try running a JS degug command. As you can see it is executed and syntax errors are highlighted.
 
 **Managing Console**
 
