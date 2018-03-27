@@ -34,7 +34,7 @@ Once set up, you can easily switch to a desired scheme in the main screen of Int
 
 **Customizing Console Font** 
  
-Navigate to the **Console Font** section where you can define preferred font style, size, spacing, and other font parameters. While **Font**, **Size**, **Line Spacing** parameters are self-explanatory, **Fallback Font** parameter is used for symbols not supported by the main font. As you make your settings, font example is instantly shown in the preview at the bottom of the page.
+Once you are done with selecting a color scheme you want to edit, you can proceed to configure console font. Navigate to the **Console Font** section where you can define preferred font style, size, spacing, and other font parameters. While **Font**, **Size**, **Line Spacing** parameters are self-explanatory, **Fallback Font** parameter is used for symbols not supported by the main font. As you make your settings, font example is instantly shown in the preview at the bottom of the page.
 
 **Customizing Console Colors** 
 
