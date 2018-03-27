@@ -35,3 +35,7 @@ Now lets navigate to the **Console Font** section where you can define preferred
 **Customizing Console Colors** 
 
 Now lets move to the colors settings in the **Console Colors** menu. Here you can define how different messages in the console will look like by changing their color, font, and apply effects. Additionally you can specify how ANSI colors are displayed in the console.
+
+**Running Console**
+
+Let's have a look at what we have set up and run a simple Java "Hello World" application with console output. After clicking **Run** in the Editor panel, you see a console with the appication output at the bottom of the IntelliJ IDEA main screen. Note that all messages are highlighted in accordance with the settings you have made.
