@@ -34,11 +34,11 @@ Once set up, you can easily switch to a desired scheme in the main screen of Int
 
 **Customizing Console Font** 
  
-Now let's navigate to the **Console Font** section where you can define preferred font style, size, spacing, and other font parameters. While **Font**, **Size**, **Line Spacing** parameters are self-explanatory, **Fallback Font** parameter is used for symbols not supported by the main font. As you make your settings, font example is instantly shown in the preview at the bottom of the page.
+Navigate to the **Console Font** section where you can define preferred font style, size, spacing, and other font parameters. While **Font**, **Size**, **Line Spacing** parameters are self-explanatory, **Fallback Font** parameter is used for symbols not supported by the main font. As you make your settings, font example is instantly shown in the preview at the bottom of the page.
 
 **Customizing Console Colors** 
 
-Now lets move to the colors settings in the **Console Colors** menu. Here you can define how different messages in the console will look like by changing their color, font, and apply effects. Additionally you can specify how ANSI colors are displayed in the console.
+Move to the colors settings in the **Console Colors** menu. Here you can define how different messages in the console will look like by changing their color, font, and apply effects. Additionally you can specify how ANSI colors are displayed in the console.
 
 Note that along with Console, you set your own colors and fonts for the Debugger and other IntelliJ IDEA components.
 
