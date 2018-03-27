@@ -28,4 +28,4 @@ And select a color scheme you want to change.  Note that here you also have the 
 
 **Customizing Console Font** 
  
-Now lets navigate to **Console Font** section where you can define your preferred font style, size, spacing and other font parameters.
+Now lets navigate to **Console Font** section where you can define your preferred font style, size, spacing and other font parameters. While Font, size, line spacing parameters are self-explanatory, **Fallback Font** parameter is used for symbols not supported by the main font. As you make your settings, font example is instantly shown in the preview at the bottom of the page.
