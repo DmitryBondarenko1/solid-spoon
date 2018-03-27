@@ -1,7 +1,7 @@
 **Working with Consoles**
 
  - Introduction
- - Configuring Color Scheme
+ - Selecting Color Scheme
  - Customizing Console Font 
  - Customizing Console Colors
  - Running Console
