@@ -47,7 +47,7 @@ Select a desired console area you want to customize, see table below for availab
 |--|--|
 | Background| Defines a background color |
 | Error output | Defines a color of error messages |
-| Standard output | Defines acolor of output messages  |
+| Standard output | Define s acolor of output messages  |
 | System output | Defines a color of output system messages |
 | User input| Defines a color of user input messages |
 
