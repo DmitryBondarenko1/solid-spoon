@@ -28,15 +28,19 @@ To customize a color scheme
 
 Go to **Settings** -> **Editor** -> **Color Scheme**.
 
-And select a Color scheme you want to modify.  Note that here you also have the ability to Export and Import color schemes. Schemes are saved in .icls, .jar or .xml format based on your needs. 
+And select a Color scheme you want to edit from the Scheme dropdown list. Note that here you also have the ability to Export and Import Color Schemes. Schemes are saved in .icls, .jar or .xml format.
+
+To switch between schemes choose **View** -> **Quick Switch Scheme** in the main menu. In the pop-up window that opens select the desired scheme (Colors and Fonts, Code Style, etc.). In the suggestion list, click the desired option.
 
 **Customizing Console Font** 
  
-Now lets navigate to the **Console Font** section where you can define preferred font style, size, spacing, and other font parameters. While Font, size, line spacing parameters are self-explanatory, **Fallback Font** parameter is used for symbols not supported by the main font. As you make your settings, font example is instantly shown in the preview at the bottom of the page.
+Now lets navigate to the **Console Font** section where you can define preferred font style, size, spacing, and other font parameters. While **Font**, **Size**, **Line Spacing** parameters are self-explanatory, **Fallback Font** parameter is used for symbols not supported by the main font. As you make your settings, font example is instantly shown in the preview at the bottom of the page.
 
 **Customizing Console Colors** 
 
 Now lets move to the colors settings in the **Console Colors** menu. Here you can define how different messages in the console will look like by changing their color, font, and apply effects. Additionally you can specify how ANSI colors are displayed in the console.
+
+Note that along with Console, you set your own colors and fonts for the Debugger and other IntelliJ IDEA components.
 
 **Running Console**
 
