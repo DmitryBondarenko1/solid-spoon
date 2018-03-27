@@ -18,10 +18,14 @@ Console in IntelliJ is a much more advanced tool than a standard application con
  - Scrolling through the history of commands using the arrow keys 
  - Quick documentation lookup
  
- **Configuring Color Scheme (darcula etc)**
+ **Configuring Color Scheme**
 
 As above said, you can flexibly tune IntelliJ's view according to your preferences. In particular, can individually configure color, font style, and highlighting rules for input, error, and output messages. Before you start customzing your console, make sure that the current color scheme you are working with is editable. Color schemes are various styles of how your editor looks like. 
 
 Go to **Settings** -> **Editor** -> **Color Scheme**.
 
 And select a color scheme you want to change.  Note that here you also have the ability to Export and Import color schemes. Schemes are saved in .icls, .jar or .xml format based on your needs. 
+
+**Customizing Console Font** 
+ 
+Now lets navigate to **Console Font** section where you can define your preferred font style, size, spacing and other font parameters.
