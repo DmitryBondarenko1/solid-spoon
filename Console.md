@@ -38,7 +38,23 @@ Navigate to the **Console Font** section where you can define preferred font sty
 
 **Customizing Console Colors** 
 
-Move to the colors settings in the **Console Colors** menu. Here you can define how different messages in the console will look like by changing their color, font, and apply effects. Additionally you can specify how ANSI colors are displayed in the console.
+Move to the colors settings in the **Console Colors** menu. Here you can define how different messages in the console will look like by changing their color, font, and apply effects. Additionally, you can specify how ANSI colors are displayed in the console.
+
+To customize console color
+
+Navigate to **Editor** -> **General** -> **Color Scheme** -> **Console Colors**. 
+
+Select the desired console area you want to customize. See below for the available options.
+
+|Console Area|  Description|
+|--|--|
+| Background| Defines the background color |
+| Error output | Defines the view of error messages |
+| Standard output | Defines the view of output messages  |
+| System output | Defines the view of output system messages |
+| User input| Defines the view of user input messages |
+
+Specify your desired console color settings using the menu in the the right-hand pane.
 
 Note that along with Console, you set your own colors and fonts for the Debugger and other IntelliJ IDEA components.
 
