@@ -24,7 +24,7 @@ As said above, you can flexibly tune IntelliJ's console view according to your p
 
 IntelliJ IDEA appearance is set up by Color Schemes. They define interface color and syntax highlighting in the editor, search results, Debugger, and consoles. By default, the application has two Color Schemes: default (white colored) and Darcula (dark colored). You can add, delete, and modify Color Schemes.
 
-**To customize a color scheme**
+**To customize color scheme**
 
 Go to **Settings** -> **Editor** -> **Color Scheme**.
 
