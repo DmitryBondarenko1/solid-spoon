@@ -30,7 +30,7 @@ Go to **Settings** -> **Editor** -> **Color Scheme**.
 
 And select a Color Scheme you want to edit from the **Scheme** dropdown list. Note that here you also have the ability to **Export** and **Import** Color Schemes. Schemes are saved in .icls, .jar or .xml format.
 
-You can easily switch to a deired scheme in the main screen of IntelliJ IDEA. To switch between schemes, choose **View** -> **Quick Switch Scheme** in the main menu. In the pop-up window that opens select the desired scheme (Colors and Fonts, Code Style, etc.). In the suggestion list, click the desired option.
+Once set up, you can easily switch to a desired scheme in the main screen of IntelliJ IDEA. To switch between schemes, choose **View** -> **Quick Switch Scheme** in the main menu. In the pop-up window that opens select the desired scheme (Colors and Fonts, Code Style, etc.). In the suggestion list, click the desired option.
 
 **Customizing Console Font** 
  
