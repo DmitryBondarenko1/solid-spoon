@@ -7,8 +7,8 @@
 	 - Editor Basics *//Editor introduction*
 		 - **Console Basics** *//Console introduction. Console types, code completion, syntax check etc* 	 
 	 - **	 
- - Configuring the IDE
-	 - Configuring the Editor *//Features overview. Personalizing source code appearance, customizing editor etc*
+ - Configuring IDE
+	 - Configuring Editor *//Features overview. Personalizing source code appearance, customizing editor etc*
 		 - Managing General Editor Settings *//How-to. Mouse, soft wraps, virtual space etc*
 			 - **
 			 - **Managing General Console Settings** *//How-to. Console soft wraps, buffer size*
@@ -38,11 +38,13 @@
 			- **
 	- Other Settings
 		- **Configuring Console Output Encoding**
+	- **Configuring Terminal**
 - Building, Running, Testing and Deploying Applications
 	- **
 		- **Running Console** *//How to run a console*
 		- **Managing Console** *//How-to. Toolbar, resizing, floating etc*
 		- 	**Loading Code from Editor into Console
+		- **Running Terminal**
  - [Tutorials](Tutorials.md) *//Practical Examples
  	 - **[Working with Consoles](Console.md)**
 	 	- Customizing, Running, and Managing Consoles
