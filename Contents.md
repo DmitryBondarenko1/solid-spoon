@@ -43,6 +43,7 @@
 		- **
  - [Tutorials](Tutorials.md)
  	 - **[Working with Consoles](Console.md)**
+	 	- Customizing, Running, and Managing Consoles
  - Reference
  	 - Settings/Preferences Dialog
 	 	 - Editor
