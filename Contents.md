@@ -43,7 +43,7 @@
 	- **
 		- **Running Console** *//How to run a console*
 		- **Managing Console** *//How-to. Toolbar, resizing, floating etc*
-		- 	**Loading Code from Editor into Console
+		- 	**Loading Code from Editor into Console**
 		- **Running Special Types of Consoles** *//JShell, Terminal, Groovy, TypeScript, JPA*
 		- **
  - [Tutorials](Tutorials.md) *//Practical Examples*
