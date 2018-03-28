@@ -44,10 +44,12 @@
 		- **Running Console** *//How to run a console*
 		- **Managing Console** *//How-to. Toolbar, resizing, floating etc*
 		- 	**Loading Code from Editor into Console
-		- **Running Terminal**
+		- **Running Special Types of Consoles** *//JShell, Terminal, Groovy, TypeScript, JPA
+		- **
  - [Tutorials](Tutorials.md) *//Practical Examples*
  	 - **Working with Consoles**
 	 	- [Customizing, Running, and Managing Consoles](Console.md)
+		- **Running Special Types of Consoles** *//JShell, Terminal, Groovy, TypeScript, JPA
  - Reference
  	 - Settings/Preferences Dialog
 	 	 - Editor
