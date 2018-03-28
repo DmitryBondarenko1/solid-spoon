@@ -40,7 +40,7 @@
 	- **
 		- **Running Console** *//How to run a console*
 		- **Managing Console** *//How-to. Toolbar, resizing, floating etc*
-		- **
+		- 	**Loading Code from Editor into Console
  - [Tutorials](Tutorials.md) *//Practical Examples
  	 - **[Working with Consoles](Console.md)**
 	 	- Customizing, Running, and Managing Consoles
