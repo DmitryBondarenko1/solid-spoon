@@ -46,7 +46,7 @@
 		- 	**Loading Code from Editor into Console
 		- **Running Terminal**
  - [Tutorials](Tutorials.md) *//Practical Examples*
- 	 - **[Working with Consoles]**
+ 	 - **Working with Consoles**
 	 	- [Customizing, Running, and Managing Consoles](Console.md)
  - Reference
  	 - Settings/Preferences Dialog
