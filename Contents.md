@@ -5,7 +5,7 @@
  - Meet IntelliJ IDEA	
  	 - Discover IntelliJ IDEA *//Features overview.
 	 - Editor Basics *//Editor introduction*
-		 - **Console Basics** *//Console introduction. Console types, code completion, syntax check etc** 	 
+		 - **Console Basics** *//Console introduction. Console types, code completion, syntax check etc* 	 
 	 - **	 
  - Configuring the IDE
 	 - Configuring the Editor *//Features overview. Personalizing source code appearance, customizing editor etc*
@@ -36,6 +36,8 @@
 			- **
 			- **Configuring Database Console User Parameters** *//How-to. Enable in console and SQL, enable in string literals*
 			- **
+	- Other Settings
+		- **Configuring Console Output Encoding**
 - Building, Running, Testing and Deploying Applications
 	- **
 		- **Running Console** *//How to run a console*
