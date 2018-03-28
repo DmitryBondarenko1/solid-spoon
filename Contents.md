@@ -45,9 +45,9 @@
 		- **Managing Console** *//How-to. Toolbar, resizing, floating etc*
 		- 	**Loading Code from Editor into Console
 		- **Running Terminal**
- - [Tutorials](Tutorials.md) *//Practical Examples
- 	 - **[Working with Consoles](Console.md)**
-	 	- Customizing, Running, and Managing Consoles
+ - [Tutorials](Tutorials.md) *//Practical Examples*
+ 	 - **[Working with Consoles]**
+	 	- [Customizing, Running, and Managing Consoles](Console.md)
  - Reference
  	 - Settings/Preferences Dialog
 	 	 - Editor
