@@ -7,8 +7,8 @@
 	 - Editor Basics *//introduction*
 		 - **Console Basics** *//introduction, console types, code completion, syntax check etc** 	 
 	 - **	 
- - Configuring the IDE
-	 - Configuring the Editor *//features overview. Personalizing source code appearance, customizing editor etc*
+ - Configuring IDE
+	 - Configuring Editor *//features overview. Personalizing source code appearance, customizing editor etc*
 		 - Managing General Editor Settings *//how to. mouse, soft wraps, virtual space etc*
 			 - **
 			 - **Managing General Console Settings** *//how to. console soft wraps, buffer size*
