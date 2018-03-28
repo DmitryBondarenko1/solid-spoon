@@ -9,31 +9,31 @@
  
  **Introduction**
 
-Console in IntelliJ IDEA is a more advanced tool than a regular application console. Besides common functions like input and output you can change it's appearance and behaviour according to your preferences and сonsequently work more efficiently.
+The console in IntelliJ IDEA is a more advanced tool than a regular application console. Besides common functions like input and output you can change its appearance and behavior according to your preferences and consequently work more efficiently.
 
-This article covers only standard IntelliJ IDEA application console. For information on specific consoles like JShell, Terminal, Groovy, refer to the corresponding separate articles.
+This article covers only the standard IntelliJ IDEA application console. For information on specific consoles like JShell, Terminal, Groovy, refer to the corresponding articles.
  
  **Selecting Color Scheme**
 
-As said above, you can flexibly tune IntelliJ IDEA's console appearance according to your preferences. To do so, first you have to select a Color Scheme.
+As noted above, you can flexibly tune IntelliJ IDEA's console appearance according to your preferences. To do so, first you have to select a Color Scheme.
 
-IntelliJ IDEA's appearance is set up by Color Schemes. They define interface color, code highlighting in the editor, search results, and consoles. By default, IntelliJ IDEA has two Color Schemes: default (white colored) and Darcula (dark colored). You can add, delete, and modify Color Schemes.
+IntelliJ IDEA's appearance is set up by Color Schemes. They define interface color, code highlighting in the editor, search results, and consoles. By default, IntelliJ IDEA has two Color Schemes: Default (white colored) and Darcula (dark colored). You can add, delete, and modify Color Schemes.
 
 **To customize color scheme**
 
 Go to **Settings** -> **Editor** -> **Color Scheme**.
 
-Select a Color Scheme you want to further edit from the **Scheme** dropdown list. Note that here you also have the ability to **Export** and **Import** Color Schemes. Schemes are saved in .icls, .jar or .xml format. You can create your own schemes and share them with other users around the world.
+Select the Color Scheme that you want to edit from the **Scheme** dropdown list. Note that here you also have the ability to **Export** and **Import** Color Schemes. Schemes are saved in .icls, .jar or .xml format. You can create your own schemes and share them with other users around the world.
 
 ![enter image description here](https://github.com/DmitryBondarenko1/solid-spoon/blob/master/Scheme1.jpg)
 
-Once set up, you can easily switch to a desired scheme in the main screen of IntelliJ IDEA. To switch between schemes, select **View** -> **Quick Switch Scheme** in the main menu. In the appeared list, select a desired scheme.
+Once set up, you can easily switch to a desired scheme in the main screen of IntelliJ IDEA. To switch between schemes, select **View** -> **Quick Switch Scheme** in the main menu. Then select the desired scheme from the provided list.
 
 ![enter image description here](https://github.com/DmitryBondarenko1/solid-spoon/blob/master/Switch1.jpg)
 
 **Customizing Console Font** 
  
-Once you selected a Color Scheme, you can proceed to configure a console font. Navigate to the **Console Font** section where you can define preferred font style, size, spacing, and other font parameters. While **Font**, **Size**, **Line Spacing** parameters are self-explanatory, **Fallback Font** parameter is used to display symbols not supported by the main font. As you make your settings, font example is instantly shown in the preview screen at the bottom of the menu.
+Once you selected a Color Scheme, you can proceed to configure a console font. Navigate to the **Console Font** section where you can define preferred font style, size, spacing, and other font parameters. While the **Font**,**Size**, and **Line Spacing** parameters are self-explanatory, the **Fallback Font** parameter is used to display symbols not supported by the main font. As you make your settings, the font example is instantly shown in the preview screen at the bottom of the menu.
 
 ![enter image description here](https://github.com/DmitryBondarenko1/solid-spoon/blob/master/font1.jpg)
 
@@ -53,17 +53,17 @@ Select a desired console area you want to customize, see table below for availab
 | System output | Defines the color of output system messages |
 | User input| Defines the color of user input messages |
 
-Specify your desired console color settings using the menu in the the right-hand pane.
+Specify your desired console color settings using the menu in the right-hand pane.
 
 ![enter image description here](https://github.com/DmitryBondarenko1/solid-spoon/blob/master/ConsoleColor2.jpg)
 
-Note that along with Console, you can set your own colors and fonts for the Debugger and other IntelliJ IDEA components. Refer to a separate article for more information about this function.
+Note that along with the Console, you can set your own colors and fonts for the Debugger and other IntelliJ IDEA components. Refer to the relevant article for more information about this function.
 
 **To re-assign ANSI colors**
 
-Select a color in the ANSI menu from the list and specify ANSI color to be assigned in the the right-hand pane.
+Select a color in the ANSI menu from the list and specify ANSI color to be assigned in the right-hand pane.
 
-You can always return to default color settings by clicking **Reset** in the top right corner of the menu.
+You can always return to the default color settings by clicking **Reset** in the top right corner of the menu.
 
 **Running Console**
 
@@ -73,7 +73,7 @@ Let's have a look at what you have just set up and run a simple Java "Hello Worl
 
 **Managing Console**
 
-Since IntelliJ idea is a smart tool, it enables you to fine-tune a console view even further by manipulating it on the go. Let's play a bit with the application you have just run and make console float. To do so, navigate to the right-hand pane menu of the console and choose **Floating** option. Console now becomes unattached from the main application screen and it is displayed on top of other windows in the operating system. 
+Since IntelliJ IDEA is a smart tool, it enables you to fine-tune a console view even further by manipulating it on the go. Let's play a bit with the application you have just run and make the console float. To do so, navigate to the right-hand pane menu of the console and choose the **Floating** option. The console now becomes unattached from the main application screen and it is displayed on top of other windows in the operating system. 
 
 ![enter image description here](https://github.com/DmitryBondarenko1/solid-spoon/blob/master/float2.jpg)
 
