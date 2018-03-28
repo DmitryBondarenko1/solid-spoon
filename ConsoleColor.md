@@ -25,4 +25,4 @@ IntelliJ IDEA enables you to define a custom view of the application console. Th
 
 To learn more about consoles in the IntelliJ IDEA, see section [Console Basics](UsingConsole.md) in chapter [Meet IntelliJ IDEA ](RunningApplications.md)
 
-For a practical example, see the [How to Customize Console Colors and Fonts](HowTo.md) article in the [Tutorials](Tutorials.md) section of this User Guide.
+For a practical example, see the [Customizing, Running, and Managing Consoles](HowTo.md) article in the [Tutorials](Tutorials.md) section of this User Guide.
