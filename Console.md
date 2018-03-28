@@ -1,4 +1,4 @@
-**Working with Consoles**
+**Customizing, Running, and Managing Consoles**
 
  - Introduction
  - Selecting Color Scheme
