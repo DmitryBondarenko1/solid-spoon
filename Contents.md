@@ -3,9 +3,9 @@
 **IntelliJ IDEA Help**
 
  - Meet IntelliJ IDEA	
- 	 - Discover IntelliJ IDEA *//Features overview.
+ 	 - Discover IntelliJ IDEA *//Features overview.*
 	 - Editor Basics *//Editor introduction*
-		 - **Console Basics** *//Console introduction. Console types, code completion, syntax check etc* 	 
+		 - **Console Basics** *//Console introduction. Console types, features* 	 
 	 - **	 
  - Configuring IDE
 	 - Configuring Editor *//Features overview. Personalizing source code appearance, customizing editor etc*
