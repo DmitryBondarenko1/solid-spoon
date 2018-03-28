@@ -42,7 +42,7 @@
 		- **Managing Console** *//how to. toolbar, resizing, floating etc*
 		- **
  - [Tutorials](Tutorials.md)
- 	 - **[How to Customize Console Colors and Fonts](HowTo.md)**
+ 	 - **[Working with Consoles](Console.md)**
  - Reference
  	 - Settings/Preferences Dialog
 	 	 - Editor
