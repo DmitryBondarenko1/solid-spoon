@@ -77,10 +77,10 @@ https://www.jetbrains.com/help/idea/working-with-consoles.html
 | Is it possible to change the console font size in IntelliJ IDEA | Customizing Console Font |
 | Set terminal font size in PhpStorm? | Using Terminal |
 | How to increase fonts in all UI elements in IntelliJ IDEA? | Customizing Console Font |
-| | |
-| | |
-| | |
-| | |
+| Displaying Console and Debugger at same time in IntelliJ?| Managing Console |
+| development environment - Intellij: Search console output | Managing Console, Find |
+| IntelliJ IDEA - How to reattach and place Console tab back to IDE | Managing Console, Float |
+| How to see Maven console in IntelliJ? | Running Console |
 | | |
 | | |
 | | |
