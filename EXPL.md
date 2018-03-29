@@ -68,9 +68,9 @@ https://www.jetbrains.com/help/idea/working-with-consoles.html
 | java - How do I color my output in the console in Intellij using | Customizing Console Colors |
 | Colorize console output in Intellij products | Customizing Console Colors  |
 | java - IntelliJ and Console Output Colors | Customizing Console Colors |
-|java - How to color System.out.println output?  | Customizing Console Colors, ANSI colors  |
+| java - How to color System.out.println output?  | Customizing Console Colors, ANSI colors  |
 | Intellij 14 console not respecting ANSI colors  | Customizing Console Colors, ANSI colors |
-|  |  |
+| Is it possible to use the system console to display output? |  |
 |  |  |
 |  |  |
 |  |  |
@@ -79,7 +79,7 @@ https://www.jetbrains.com/help/idea/working-with-consoles.html
 
 **4. Подготовка контента**. Демонстрируется знание английского языка, навыки составления документации в различных стилях, знание предметной области.
 
-В качестве демонстрации навыка разработки контента, подготовил две статьи на тему конфигурации внешнего вида консоли. Первая статья написана в сдержанном стиле user guide, вторая более подходит под формат блога или туториала. Плюс второго формата в том, что он позволяет раскрыть сразу несколько use кейсов в одной статье, а именно: выбор цветовой палитры приложения, настройка цвета и шрифта консоли, настройка ANSI цветов запуск консоли и манипуляция запущенной консоли т.о. раскрываются сразу несколько запросов пользователей из списка в предыдущем пункте.
+В качестве демонстрации навыка разработки контента, подготовил две статьи на тему конфигурации внешнего вида консоли. Первая статья написана в сдержанном стиле user guide, вторая больше подходит под формат блога или туториала. Плюс второго формата в том, что он раскрывает сразу несколько use кейсов в одной статье, а именно: выбор цветовой палитры приложения, настройка цвета и шрифта консоли, настройка ANSI цветов запуск консоли и манипуляция запущенной консоли.
 
  - **[Customizing Console Colors](https://github.com/DmitryBondarenko1/solid-spoon/blob/master/ConsoleColor.md)** 
  - **[Customizing, Running, and Managing Consoles](https://github.com/DmitryBondarenko1/solid-spoon/blob/master/Console.md)** 
