@@ -71,9 +71,26 @@ https://www.jetbrains.com/help/idea/working-with-consoles.html
 | java - How to color System.out.println output?  | Customizing Console Colors, ANSI colors  |
 | Intellij 14 console not respecting ANSI colors  | Customizing Console Colors, ANSI colors |
 | Is it possible to use the system console to display output? | Tips and Tricks |
-| How do you programmatically change the color of output to the IntelliJ console  |  |
+| How do you programmatically change the color of output to the IntelliJ console  |   |
 | can't adjust console color scheme – IDEs Support | Selecting Color Scheme |
 | How to set different color scheme for console in | Selecting Color Scheme |
+| Is it possible to change the console font size in IntelliJ IDEA | Customizing Console Font |
+| Set terminal font size in PhpStorm? | Using Terminal |
+| How to increase fonts in all UI elements in IntelliJ IDEA? | Customizing Console Font |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+
+Is it possible to change the console font size in IntelliJ IDEA
 
 **3. Формирование документации на основе use кейсов.**
 
