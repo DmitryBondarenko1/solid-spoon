@@ -65,11 +65,15 @@ https://www.jetbrains.com/help/idea/working-with-consoles.html
 | How to display console tab of intellij | How to open a console/terminal |
 | IntelliJ IDEA - How to reattach and place Console tab back to IDE | Managing Console |
 | IntelliJ: After hiding my “Output” sub-panel in the “Debug” panel, how do I get it back? | How to restore layout |
+| java - How do I color my output in the console in Intellij using | Customizing Console Colors |
+| Colorize console output in Intellij products | Customizing Console Colors  |
+| java - IntelliJ and Console Output Colors | Customizing Console Colors |
+|java - How to color System.out.println output?  | Customizing Console Colors |
+| Intellij 14 console not respecting ANSI colors  | Customizing Console Colors |
 |  |  |
 |  |  |
 |  |  |
 |  |  |
-
 
 **3. Формирование документации на основе use кейсов.**
 
