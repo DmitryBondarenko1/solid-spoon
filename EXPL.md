@@ -57,14 +57,10 @@ https://www.jetbrains.com/help/idea/working-with-consoles.html
 
 | Use case | Тема документации |
 |--|--|
-| How / can I display a console window in Intellij IDEA? | How to open a console/terminal |
-| How to delete SQL Consoles from Intellij IDEA Database plugin? | How to delete a database console |
-| For intelliJ 12.X how do i get the console back in the debugger? | How to restore layout |
-| How to restore default layout for intellij Run/Debug window/tabs? | How to restore layout |
-| IntelliJ IDEA 2017 - Missing Debug window | How to restore layout |
+| How / can I display a console window in Intellij IDEA? | How to open Terminal, Using Terminal |
+| How to delete SQL Consoles from Intellij IDEA Database plugin? | How to delete a database console, Using Database console |
 | How to display console tab of intellij | How to open a console/terminal |
 | IntelliJ IDEA - How to reattach and place Console tab back to IDE | Managing Console |
-| After hiding my “Output” sub-panel in “Debug”, how do I get it back? | How to restore layout |
 | java - How do I color my output in the console in Intellij using | Customizing Console Colors |
 | Colorize console output in Intellij products | Customizing Console Colors  |
 | java - IntelliJ and Console Output Colors | Customizing Console Colors |
@@ -74,7 +70,7 @@ https://www.jetbrains.com/help/idea/working-with-consoles.html
 | can't adjust console color scheme – IDEs Support | Selecting Color Scheme |
 | How to set different color scheme for console in | Selecting Color Scheme |
 | Is it possible to change the console font size in IntelliJ IDEA | Customizing Console Font |
-| Set terminal font size in PhpStorm? | Using Terminal |
+| Set terminal font size in PhpStorm? | Customizing Console Font |
 | How to increase fonts in all UI elements in IntelliJ IDEA? | Customizing Console Font |
 | Displaying Console and Debugger at same time in IntelliJ?| Managing Console |
 | development environment - Intellij: Search console output | Managing Console, Find |
@@ -88,7 +84,7 @@ https://www.jetbrains.com/help/idea/working-with-consoles.html
 | Как настроить отдельный терминал Intellij IDEA?| Managing Console |
 | java - How to use IntelliJ Groovy interactive console as | Groovy Console|
 | IntelliJ IDEA groovy console in Java maven project | Groovy Console |
-| | |
+| Javascript in IntelliJ's “IDE scripting console” | Typescript Console |
 | | |
 | | |
 | | |
