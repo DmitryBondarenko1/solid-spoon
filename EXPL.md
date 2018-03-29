@@ -64,7 +64,7 @@ https://www.jetbrains.com/help/idea/working-with-consoles.html
 | IntelliJ IDEA 2017 - Missing Debug window | How to restore layout |
 | How to display console tab of intellij | How to open a console/terminal |
 | IntelliJ IDEA - How to reattach and place Console tab back to IDE | Managing Console |
-| IntelliJ: After hiding my “Output” sub-panel within the “Debug” panel, how do I get it back? | How to restore layout |
+| IntelliJ: After hiding my “Output” sub-panel in the “Debug” panel, how do I get it back? | How to restore layout |
 |  |  |
 |  |  |
 |  |  |
