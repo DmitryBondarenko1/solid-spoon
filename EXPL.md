@@ -59,8 +59,8 @@ https://www.jetbrains.com/help/idea/working-with-consoles.html
 |--|--|
 | How / can I display a console window in Intellij IDEA? | How to open Terminal, Using Terminal |
 | How to delete SQL Consoles from Intellij IDEA Database plugin? | How to delete a database console, Using Database console |
-| How to display console tab of intellij | How to open a console/terminal |
-| IntelliJ IDEA - How to reattach and place Console tab back to IDE | Managing Console |
+| How to display console tab of intellij | How to open Terminal, Using Terminal, Running Consoles |
+| IntelliJ IDEA - How to reattach and place Console tab back to IDE | Managing Consoles |
 | java - How do I color my output in the console in Intellij using | Customizing Console Colors |
 | Colorize console output in Intellij products | Customizing Console Colors  |
 | java - IntelliJ and Console Output Colors | Customizing Console Colors |
@@ -77,7 +77,7 @@ https://www.jetbrains.com/help/idea/working-with-consoles.html
 | IntelliJ IDEA - How to reattach and place Console tab back to IDE | Managing Console, Float |
 | How to see Maven console in IntelliJ? | Running Console |
 | Where does IntelliJ IDEA store database console scripts? | Other Hacks |
-| debugging - IntelliJ IDEA set default debug view to console view | Managing Consoles |
+| debugging - IntelliJ IDEA set default debug view to console view | Managing Consoles, Focus On Startup |
 | java - Intellij Idea incorrect encoding in console output | Fixing Output Encoding |
 | How to open two terminal windows in IntelliJ IDEA, PyCharm? | Using Terminal |
 | java - How do I color my output in the console in Intellij using | Customizing Console Colors |
