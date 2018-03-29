@@ -54,8 +54,11 @@ https://www.jetbrains.com/help/idea/working-with-consoles.html
 
 В качестве демонстрации навыка разработки контента, подготовил две статьи на тему конфигурации внешнего вида консоли. Первая статья написана в сдержанном стиле user guide, вторая более подходит под формат блога или неформального туториала.
 
- - **Customizing Console Colors** https://github.com/DmitryBondarenko1/solid-spoon/blob/master/ConsoleColor.md
- - **Customizing, Running, and Managing Consoles** https://github.com/DmitryBondarenko1/solid-spoon/blob/master/Console.md
+ - **Customizing Console Colors**
+ https://github.com/DmitryBondarenko1/solid-spoon/blob/master/ConsoleColor.md
+ 
+ - **Customizing, Running, and Managing Consoles**
+ https://github.com/DmitryBondarenko1/solid-spoon/blob/master/Console.md
 
 **Преимущества первого подхода**
 
