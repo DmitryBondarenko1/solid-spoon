@@ -29,7 +29,7 @@ https://www.jetbrains.com/help/idea/working-with-consoles.html
  - Using Consoles
  - Working with Embedded Local Terminal
 
-Отметим общие замечания к предлагаемой документации:
+Сначала отметим общие замечания к предлагаемой документации:
 
  - Несоответствие темы главы **Configuring IDE** и тем раздела **Running Console**, **Using Consoles**, **Working with Embedded Local Terminal**. Конфигурация не имеет отношения к запуску или использованию консоли. Таким образом, нарушена систематизация материала, что ведет к запутыванию пользователей  и затрудняет поиск искомой информации.
  
