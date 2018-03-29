@@ -48,13 +48,28 @@ https://www.jetbrains.com/help/idea/working-with-consoles.html
 
 Одним из важнейших условий успешности продукта является клиентоориентированный подход к его разработке. Это же в полной мере касается и пользовательской документации. Для обеспечения положительного опыта использования продукта критически важным является готовность отвечать на текущие запросы пользователей. 
 
-Для анализа запросов пользователей на тему консолей в IntelliJ IDEA проведем исследование наиболее популярных community в интернете: StackOverflow итп.
+Для анализа запросов пользователей на тему консолей в **IntelliJ IDEA** проведем исследование наиболее популярных community в интернете: **StackOverflow** итп.
 
 В результате проведенного исследования составим список вопросов, которые впоследствии лягут в основу нашей документации.
 
 Итак, что у нас получилось:
 
-
+ - How / can I display a console window in Intellij IDEA?
+ - How to delete SQL Consoles from Intellij IDEA Database plugin?
+ - For intelliJ 12.X how do i get the console back in the debugger?
+ - How to display console tab of intellij?
+ - Displaying Console and Debugger at same time in IntelliJ? intellij idea
+ - Trying to read from the console in Java development environment
+ - Intellij: Search console output
+ - IntelliJ IDEA - How to reattach and place Console tab back to ID
+ - How to see Maven console in IntelliJ? 
+ -  Where does IntelliJ IDEA store database console scripts? debugging 
+ - IntelliJ IDEA set default debug view to console view  java Intellij Idea incorrect encoding in console output
+ - How to open two terminal windows in IntelliJ IDEA, PyCharm ..
+ - java - Why Doesn't Intellij Idea Console Pause for User Input 
+ - junit - Intellij not shows test results in console 
+ - java - How do I color my output in the console in Intellij using 
+ - java - Intellij IDEA Hibernate Console not finding JDBC Drive
 
 
 **3. Формирование документации на основе use кейсов.**
