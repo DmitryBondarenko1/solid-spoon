@@ -25,20 +25,17 @@ https://www.jetbrains.com/help/idea/working-with-consoles.html
 
 Раздел Managing Consoles, располагается в секции Configuring IDE IntelliJ IDEA Help и содержит разделы:
 
-    Running Console
-    Configuring Output Encoding
-    Configuring Color Scheme for Consoles
-    Using Consoles
-    Working with Embedded Local Terminal
+ - Running Console
+ - Configuring Output Encoding
+ - Configuring Color Scheme for Consoles
+ - Using Consoles
+ - Working with Embedded Local Terminal
 
-Отмеченные замечания:
+Общие замечания по разделу:
 
--несоответсвие тем главы (Configuring IDE) и статей раздела (Running Console, Using Consoles, Working with Embedded Local Terminal). Конфигурация не имеет явного отношения к запуску или использованию консоли. Таким образом, нарушается систематизация материала, что ведет к запутыванию пользователей. Нужную информацию не найти или можно найти с трудом. 
+-Несоответсвие темы главы (Configuring IDE) и тем раздела (Running Console, Using Consoles, Working with Embedded Local Terminal). Конфигурация не имеет отношения к запуску или использованию консоли. Таким образом, нарушается систематизация материала, что ведет к запутыванию пользователей. Нужную информацию не найти или можно найти с трудом. 
 
--фактические ошибки. В разделе описывается функционал консолей, однако нет разделения между обычными консолями приложения и специфическими консолями - JShell, Terminal, Groovy, TypeScript, JPA. Это неверно, т.к. функционал обычных консолей не применим к вышеперечисленным (например, в обыных консолях недоступны функции Code completion, Syntax check with inspections.
-Automated insertion of paired brackets, quotes and braces.
-Scrolling through the history of commands using the arrow keys.
-Quick documentation lookup). Это может привести к неверному трактованию функций системы, запутать и оттолкнуть пользователей от использования приложения.
+-Фактические ошибки. В разделе описывается функционал консолей, однако нет разделения между обычными консолями приложения и специфическими консолями - JShell, Terminal, Groovy, TypeScript, JPA. Это неверно, т.к. функционал обычных консолей не применим к вышеперечисленным (например, в обычных консолях недоступны функции Code completion, Syntax check with inspections, Automated insertion of paired brackets, quotes and braces, Scrolling through the history of commands using the arrow keys, Quick documentation lookup). Это может привести к неверному трактованию функций системы, запутать и оттолкнуть пользователей от использования приложения.
 
 -Неполная информация/не раскрыты некоторые потенциально актуальные темы. Например, нет описания выбора фонта консоли или функции изменения размера консоли. Очевидно, это влияет на качество воcприятия продукта и отталкивает от его использования. Это тема еще будет проанализирована дополнительно ниже в разделе анализа пользовательских запросов.
 
