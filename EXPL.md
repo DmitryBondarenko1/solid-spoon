@@ -21,7 +21,7 @@ https://www.jetbrains.com/help/idea/working-with-consoles.html
 
 **1. Анализ существующей документации.** Демонстрируются навыки знания структуры и видов документации, предметной области, правил систематизации информации, инструментов автоматического анализа пользовательской активности.
 
-Раздел **Managing Consoles**, располагается в главе **Configuring IDE** IntelliJ IDEA Help и содержит разделы:
+Раздел **Managing Consoles**, располагается в главе **Configuring IDE** IntelliJ IDEA Help и содержит статьи:
 
  - Running Console
  - Configuring Output Encoding
