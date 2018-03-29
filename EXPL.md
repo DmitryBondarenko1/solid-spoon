@@ -68,8 +68,8 @@ https://www.jetbrains.com/help/idea/working-with-consoles.html
 | java - How do I color my output in the console in Intellij using | Customizing Console Colors |
 | Colorize console output in Intellij products | Customizing Console Colors  |
 | java - IntelliJ and Console Output Colors | Customizing Console Colors |
-| java - How to color System.out.println output?  | Customizing Console Colors, ANSI colors  |
-| Intellij 14 console not respecting ANSI colors  | Customizing Console Colors, ANSI colors |
+| java - How to color System.out.println output?  | Customizing Console Colors, ANSI |
+| Intellij 14 console not respecting ANSI colors  | Customizing Console Colors, ANSI |
 | Is it possible to use the system console to display output? | Tips and Tricks |
 | How do you programmatically change the color of output to the IntelliJ console  |   |
 | can't adjust console color scheme – IDEs Support | Selecting Color Scheme |
