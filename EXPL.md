@@ -87,6 +87,15 @@ https://www.jetbrains.com/help/idea/working-with-consoles.html
 | How to open two terminal windows in IntelliJ IDEA, PyCharm? | Using Terminal |
 | java - How do I color my output in the console in Intellij using | Customizing Console Colors |
 | Как настроить отдельный терминал Intellij IDEA?| Managing Console |
+| java - How to use IntelliJ Groovy interactive console as | Groovy Console|
+| IntelliJ IDEA groovy console in Java maven project | Groovy Console |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
 | | |
 | | |
 
