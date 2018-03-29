@@ -81,16 +81,15 @@ https://www.jetbrains.com/help/idea/working-with-consoles.html
 | development environment - Intellij: Search console output | Managing Console, Find |
 | IntelliJ IDEA - How to reattach and place Console tab back to IDE | Managing Console, Float |
 | How to see Maven console in IntelliJ? | Running Console |
-| | |
-| | |
-| | |
-| | |
-| | |
+| Where does IntelliJ IDEA store database console scripts? | Other Hacks |
+| debugging - IntelliJ IDEA set default debug view to console view | Managing Consoles |
+| java - Intellij Idea incorrect encoding in console output | Fixing Output Encoding |
+| How to open two terminal windows in IntelliJ IDEA, PyCharm? | Using Terminal |
+| java - How do I color my output in the console in Intellij using | Customizing Console Colors |
 | | |
 | | |
 | | |
 
-Is it possible to change the console font size in IntelliJ IDEA
 
 **3. Формирование документации на основе use кейсов.**
 
