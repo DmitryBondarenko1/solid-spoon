@@ -59,10 +59,10 @@ https://www.jetbrains.com/help/idea/working-with-consoles.html
 |--|--|
 | How / can I display a console window in Intellij IDEA? | How to open a console/terminal |
 | How to delete SQL Consoles from Intellij IDEA Database plugin? | How to delete a database console |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| For intelliJ 12.X how do i get the console back in the debugger? | How to restore layout |
+| How to restore default layout for intellij Run/Debug window/tabs? | How to restore layout |
+| IntelliJ IDEA 2017 - Missing Debug window | How to restore layout |
+| How to display console tab of intellij | How to open a console/terminal |
 |  |  |
 |  |  |
 |  |  |
