@@ -58,7 +58,7 @@ https://www.jetbrains.com/help/idea/working-with-consoles.html
 | Use case | Тема документации |
 |--|--|
 | How / can I display a console window in Intellij IDEA? | How to open a console/terminal |
-|  |  |
+| How to delete SQL Consoles from Intellij IDEA Database plugin? | How to delete a database console |
 |  |  |
 |  |  |
 |  |  |
