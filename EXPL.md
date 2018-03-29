@@ -66,13 +66,12 @@ https://www.jetbrains.com/help/idea/working-with-consoles.html
 | java - IntelliJ and Console Output Colors | Customizing Console Colors |
 | java - How to color System.out.println output?  | Customizing Console Colors, ANSI |
 | Intellij 14 console not respecting ANSI colors  | Customizing Console Colors, ANSI |
-| Is it possible to use the system console to display output? | Tips and Tricks |
 | can't adjust console color scheme – IDEs Support | Selecting Color Scheme |
 | How to set different color scheme for console in | Selecting Color Scheme |
 | Is it possible to change the console font size in IntelliJ IDEA | Customizing Console Font |
 | Set terminal font size in PhpStorm? | Customizing Console Font |
 | How to increase fonts in all UI elements in IntelliJ IDEA? | Customizing Console Font |
-| Displaying Console and Debugger at same time in IntelliJ?| Managing Console |
+| Displaying Console and Debugger at same time in IntelliJ?| Managing Console, Float, Move |
 | development environment - Intellij: Search console output | Managing Console, Find |
 | IntelliJ IDEA - How to reattach and place Console tab back to IDE | Managing Console, Float |
 | How to see Maven console in IntelliJ? | Running Console |
@@ -96,6 +95,13 @@ https://www.jetbrains.com/help/idea/working-with-consoles.html
 
 
 **3. Формирование документации на основе use кейсов.**
+
+Таким образом, мы видим, что из заявленных сообщение выстраивается цепочка статей, связанных общей темой консоли и появляется структура будущего документа:
+
+Configuring
+Running
+Managing
+
 
 **4. Подготовка контента**. Демонстрируется знание английского языка, навыки составления документации в различных стилях, знание предметной области.
 
