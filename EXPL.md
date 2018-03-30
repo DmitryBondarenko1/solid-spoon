@@ -91,7 +91,7 @@ https://www.jetbrains.com/help/idea/working-with-consoles.html
 
 **4. Подготовка контента**.
 
-В качестве примера, подготовил две статьи на тему конфигурации внешнего вида консоли. Первая статья написана в стиле user guide, соответствующий раздел встроен в содержание. Вторая больше подходит под формат блога или туториала.
+В качестве примера, подготовил две статьи на тему конфигурации внешнего вида консоли. Первая статья написана в стиле user guide, соответствующий раздел встроен в содержание из предыдущего пункта. Вторая - в формате блога или туториала.
 
  - **[Customizing Console Colors](https://github.com/DmitryBondarenko1/solid-spoon/blob/master/ConsoleColor.md)** 
  - **[Customizing, Running, and Managing Consoles](https://github.com/DmitryBondarenko1/solid-spoon/blob/master/Console.md)** 
