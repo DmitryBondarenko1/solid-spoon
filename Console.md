@@ -77,4 +77,4 @@ Since IntelliJ IDEA is a smart tool, it enables you to fine-tune a console view 
 
 ![enter image description here](https://github.com/DmitryBondarenko1/solid-spoon/blob/master/float2.jpg)
 
-The described functions are only a part of broad IntelliJ IDEA capabilies. For more information, see the following articles. 
+The described features are only a part of broad IntelliJ IDEA capabilies. For more information, see the following articles. 
