@@ -5,3 +5,5 @@
  - JPA Console
  - Hibernate Console
  - Deployment Console
+ - Groovy Console
+ - IDE Scripting Console
