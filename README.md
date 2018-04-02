@@ -9,7 +9,7 @@
  
  **Introduction**
 
-The console in IntelliJ IDEA is a more advanced tool than a regular application console. Besides common functions like input and output you can change its appearance and behavior according to your preferences and consequently work more efficiently.
+Besides common functions like input and output you can change the console appearance and behavior according to your preferences and consequently work more efficiently.
 
 This article covers only the standard IntelliJ IDEA application console. For information on specific consoles like JShell, Terminal, Groovy, refer to the corresponding articles.
  
