@@ -6,7 +6,7 @@ IntelliJ IDEA enables you to define a custom view of the application console. Th
 
  1. Open the **Settings/Preferences** dialog.
  2. Navigate to **Editor** -> **General** -> **Color Scheme** -> **Console Colors**. 
- 3. Select the IntelliJ IDEA color scheme you want to customize from the **Scheme** dropdown list at the top of the menu. For more information about the color schemes in Itellij IDEA, see the Color Schemes section.
+ 3. Select the IntelliJ IDEA color scheme you want to customize from the **Scheme** dropdown list at the top of the menu. For more information about the color schemes in the Itellij IDEA, see the [Color Schemes](ColorScheme.md) section.
  4. Open the **Console** section in the **Console Colors** dialog.
  5. Select the desired console area you want to customize. See **Table 1** below for the available options. 
  
